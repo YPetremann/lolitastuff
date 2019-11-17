@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<ThingDef ParentName="ApparelDress">
+		<defName>MaidDress</defName>
+		<label>maid dress</label>
+		<description>Uniform for maid.</description>
+		<!-- Graphic -->
+		<graphicData>
+			<texPath>Apparel/Maid/Dress</texPath>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Apparel/Maid/Dress</wornGraphicPath>
+		</apparel>
+		<!-- Recipe -->
+		<costStuffCount>150</costStuffCount>
+		<stuffCategories>
+			<li>Fabric</li>
+		</stuffCategories>
+		<costList>
+			<Cloth>100</Cloth>
+		</costList>
+		<!-- Stats -->
+		<statBases>
+			<WorkToMake>9000</WorkToMake>
+			<MaxHitPoints>250</MaxHitPoints>
+			<Mass>2</Mass>
+			<ArmorRating_Blunt>0.108</ArmorRating_Blunt>
+			<ArmorRating_Heat>0.9</ArmorRating_Heat>
+			<ArmorRating_Sharp>0.42</ArmorRating_Sharp>
+			<Insulation_Cold>19</Insulation_Cold>
+			<Insulation_Heat>4.2</Insulation_Heat>
+			<Beauty>16</Beauty>
+		</statBases>
+		<equippedStatOffsets>
+			<!-- + (Minage, Cuisine, Construction, Agriculture), - social -->
+			<FoodPoisonChance>-0.1</FoodPoisonChance>
+			<MentalBreakThreshold>-0.2</MentalBreakThreshold>
+			<SocialImpact>-0.1</SocialImpact>
+			<PlantHarvestYield>-0.1</PlantHarvestYield>
+			<PlantWorkSpeed>0.1</PlantWorkSpeed>
+			<ButcheryFleshEfficiency>0.1</ButcheryFleshEfficiency>
+			<ButcheryFleshSpeed>0.1</ButcheryFleshSpeed>
+			<CookSpeed>0.1</CookSpeed>
+			<DrugCookingSpeed>0.1</DrugCookingSpeed>
+			<SmithingSpeed>0.1</SmithingSpeed>
+			<TailoringSpeed>0.1</TailoringSpeed>
+			<UnskilledLaborSpeed>0.2</UnskilledLaborSpeed>
+		</equippedStatOffsets>
+	</ThingDef>
+
+</Defs>

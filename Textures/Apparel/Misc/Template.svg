@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" ns:dc="http://purl.org/dc/elements/1.1/" version="1.1"
+   id="svg2" width="1536" height="2304" viewBox="0 0 1536 2303.9998" sodipodi:docname="Template.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)" style="enable-background:new">
+   <metadata id="metadata8">
+      <rdf:RDF>
+         <cc:Work rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            <dc:title />
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <defs id="defs6">
+      <inkscape:path-effect effect="skeletal" id="path-effect1315" is_visible="true"
+         pattern="m -896,640 c 64,-64 0,-64 64,0 64,64 0,64 64,0 64,-64 0,-64 64,0 64,64 0,64 64,0 64,-64 0,-64 64,0 64,64 0,64 64,0 64,-64 0,-64 64,0 64,64 0,64 64,0 64,-64 0,-64 64,0"
+         copytype="repeated_stretched" prop_scale="1" scale_y_rel="false" spacing="1.3" normal_offset="1.2"
+         tang_offset="1.3" prop_units="false" vertical_pattern="false" fuse_tolerance="0" />
+      <inkscape:path-effect effect="skeletal" id="path-effect1311" is_visible="true" pattern="M 0,0 H 1"
+         copytype="single_stretched" prop_scale="-1000000" scale_y_rel="false" spacing="0" normal_offset="0"
+         tang_offset="0" prop_units="false" vertical_pattern="false" fuse_tolerance="0" />
+      <filter id="RedFilter" inkscape:label="RedFilter" style="color-interpolation-filters:sRGB" x="0" y="0" width="1"
+         height="1">
+         <feColorMatrix id="feColorMatrix1564" values="-1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 " />
+      </filter>
+   </defs>
+   <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10"
+      gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2"
+      inkscape:window-width="2560" inkscape:window-height="1027" id="namedview4" showgrid="true"
+      inkscape:zoom="0.70710678" inkscape:cx="196.24498" inkscape:cy="317.18974" inkscape:window-x="-8"
+      inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="layer3" inkscape:snap-bbox="true"
+      inkscape:snap-smooth-nodes="true" inkscape:object-paths="false" showguides="true" inkscape:guide-bbox="true"
+      inkscape:snap-midpoints="true" inkscape:snap-object-midpoints="true" inkscape:snap-center="true"
+      inkscape:snap-intersection-paths="false" inkscape:bbox-paths="true" inkscape:bbox-nodes="true"
+      inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:snap-global="true"
+      fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0">
+      <inkscape:grid type="xygrid" id="grid2012" spacingx="64" spacingy="64" empspacing="4" color="#3f3fff"
+         opacity="0.25098039" />
+   </sodipodi:namedview>
+   <g inkscape:groupmode="layer" id="layer3" inkscape:label="Export">
+      <rect id="Thin_northm" x="1280" y="2048" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Thin_eastm" x="1024" y="2048" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Thin_southm" x="768" y="2048" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Female_northm" x="1280" y="1792" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Female_eastm" x="1024" y="1792" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Female_southm" x="768" y="1792" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Male_northm" x="1280" y="1536" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Male_eastm" x="1024" y="1536" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Male_southm" x="768" y="1536" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Shaped_northm" x="1280" y="1280" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Shaped_eastm" x="1024" y="1280" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Shaped_southm" x="768" y="1280" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Fat_northm" x="1280" y="1024" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Fat_eastm" x="1024" y="1024" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Fat_southm" x="768" y="1024" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Hulk_northm" x="1280" y="768" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Hulk_eastm" x="1024" y="768" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Hulk_southm" x="768" y="768" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Base_northm" x="1280" y="512" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Base_eastm" x="1024" y="512" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Base_southm" x="768" y="512" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Hat_northm" x="1280" y="256" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Hat_eastm" x="1024" y="256" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Hat_southm" x="768" y="256" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Base_m" x="768" y="0" width="256" height="256" style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect id="Thin_north" x="512" y="2048" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Thin_east" x="256" y="2048" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Thin_south" x="0" y="2048" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Female_north" x="512" y="1792" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Female_east" x="256" y="1792" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Female_south" x="0" y="1792" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Male_north" x="512" y="1536" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Male_east" x="256" y="1536" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Male_south" x="0" y="1536" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Shaped_north" x="512" y="1280" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Shaped_east" x="256" y="1280" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Shaped_south" x="0" y="1280" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Fat_north" x="512" y="1024" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Fat_east" x="256" y="1024" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Fat_south" x="0" y="1024" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Hulk_north" x="512" y="768" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Hulk_east" x="256" y="768" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Hulk_south" x="0" y="768" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Base_north" x="512" y="512" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Base_east" x="256" y="512" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Base_south" x="0" y="512" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Hat_north" x="512" y="256" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Hat_east" x="256" y="256" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Hat_south" x="0" y="256" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+      <rect id="Base" x="0" y="0" width="256" height="256" style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+   </g>
+   <g inkscape:groupmode="layer" id="layer1" inkscape:label="Fond" style="display:inline">
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Male_south.tex.png"
+         xlink:href="../Naked/Naked_Male_south.tex.png" id="image109" x="576" y="1344" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Male_east.tex.png"
+         xlink:href="../Naked/Naked_Male_east.tex.png" id="image111" x="320" y="1344" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Male_north.tex.png"
+         xlink:href="../Naked/Naked_Male_north.tex.png" id="image113" x="64" y="1344" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Fat_east.tex.png"
+         xlink:href="../Naked/Naked_Fat_east.tex.png" id="image115" x="320" y="576" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Fat_north.tex.png"
+         xlink:href="../Naked/Naked_Fat_north.tex.png" id="image117" x="64" y="576" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Fat_south.tex.png"
+         xlink:href="../Naked/Naked_Fat_south.tex.png" id="image119" x="576" y="576" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Fat_east.tex.png"
+         xlink:href="../Naked/Naked_Fat_east.tex.png" id="image121" x="320" y="1088" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Fat_north.tex.png"
+         xlink:href="../Naked/Naked_Fat_north.tex.png" id="image123" x="64" y="1088" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Fat_south.tex.png"
+         xlink:href="../Naked/Naked_Fat_south.tex.png" id="image125" x="576" y="1088" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Female_east.tex.png"
+         xlink:href="../Naked/Naked_Female_east.tex.png" id="image127" x="320" y="1856" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Female_north.tex.png"
+         xlink:href="../Naked/Naked_Female_north.tex.png" id="image129" x="64" y="1856" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Female_south.tex.png"
+         xlink:href="../Naked/Naked_Female_south.tex.png" id="image131" x="576" y="1856" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Hulk_east.tex.png"
+         xlink:href="../Naked/Naked_Hulk_east.tex.png" id="image133" x="320" y="832" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Hulk_north.tex.png"
+         xlink:href="../Naked/Naked_Hulk_north.tex.png" id="image135" x="64" y="832" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Hulk_south.tex.png"
+         xlink:href="../Naked/Naked_Hulk_south.tex.png" id="image137" x="576" y="832" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Male_east.tex.png"
+         xlink:href="../Naked/Naked_Male_east.tex.png" id="image139" x="320" y="1600" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Male_north.tex.png"
+         xlink:href="../Naked/Naked_Male_north.tex.png" id="image141" x="64" y="1600" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Male_south.tex.png"
+         xlink:href="../Naked/Naked_Male_south.tex.png" id="image143" x="576" y="1600" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Thin_east.tex.png"
+         xlink:href="../Naked/Naked_Thin_east.tex.png" id="image145" x="320" y="2112" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Thin_north.tex.png"
+         xlink:href="../Naked/Naked_Thin_north.tex.png" id="image147" x="64" y="2112" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Thin_south.tex.png"
+         xlink:href="../Naked/Naked_Thin_south.tex.png" id="image149" x="576" y="2112" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Hulk_east.tex.png"
+         xlink:href="../Naked/Naked_Hulk_east.tex.png" id="image151" x="320" y="576" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Hulk_north.tex.png"
+         xlink:href="../Naked/Naked_Hulk_north.tex.png" id="image153" x="64" y="576" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Hulk_south.tex.png"
+         xlink:href="../Naked/Naked_Hulk_south.tex.png" id="image155" x="576" y="576" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Female_east.tex.png"
+         xlink:href="../Naked/Naked_Female_east.tex.png" id="image157" x="320" y="1344" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Female_north.tex.png"
+         xlink:href="../Naked/Naked_Female_north.tex.png" id="image159" x="64" y="1344" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Female_south.tex.png"
+         xlink:href="../Naked/Naked_Female_south.tex.png" id="image161" x="576" y="1344" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Fat_east.tex.png"
+         xlink:href="../Naked/Naked_Fat_east.tex.png" id="image163" x="1088" y="1088" width="128" height="128"
+         style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Fat_north.tex.png"
+         xlink:href="../Naked/Naked_Fat_north.tex.png" id="image165" x="832" y="1088" width="128" height="128"
+         style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Fat_south.tex.png"
+         xlink:href="../Naked/Naked_Fat_south.tex.png" id="image167" x="1344" y="1088" width="128" height="128"
+         style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Female_east.tex.png"
+         xlink:href="../Naked/Naked_Female_east.tex.png" id="image169" x="1088" y="1856" width="128" height="128"
+         style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Female_north.tex.png"
+         xlink:href="../Naked/Naked_Female_north.tex.png" id="image171" x="832" y="1856" width="128" height="128"
+         style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Female_south.tex.png"
+         xlink:href="../Naked/Naked_Female_south.tex.png" id="image173" x="1344" y="1856" width="128" height="128"
+         style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Hulk_east.tex.png"
+         xlink:href="../Naked/Naked_Hulk_east.tex.png" id="image175" x="1088" y="832" width="128" height="128"
+         style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Hulk_south.tex.png"
+         xlink:href="../Naked/Naked_Hulk_south.tex.png" id="image177" x="1344" y="832" width="128" height="128"
+         style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Male_east.tex.png"
+         xlink:href="../Naked/Naked_Male_east.tex.png" id="image179" x="1088" y="1600" width="128" height="128"
+         style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Male_north.tex.png"
+         xlink:href="../Naked/Naked_Male_north.tex.png" id="image181" x="832" y="1600" width="128" height="128"
+         style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Male_south.tex.png"
+         xlink:href="../Naked/Naked_Male_south.tex.png" id="image183" x="1344" y="1600" width="128" height="128"
+         style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Thin_east.tex.png"
+         xlink:href="../Naked/Naked_Thin_east.tex.png" id="image185" x="1088" y="2112" width="128" height="128"
+         style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Thin_north.tex.png"
+         xlink:href="../Naked/Naked_Thin_north.tex.png" id="image187" x="832" y="2112" width="128" height="128"
+         style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Thin_south.tex.png"
+         xlink:href="../Naked/Naked_Thin_south.tex.png" id="image189" x="1344" y="2112" width="128" height="128"
+         style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <g id="g2544" style="filter:url(#RedFilter)">
+         <image
+            sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Fat_east.tex.png"
+            xlink:href="../Naked/Naked_Fat_east.tex.png" id="image191" x="1088" y="576" width="128" height="128"
+            style="stroke-width:0.32000005;image-rendering:optimizeSpeed" />
+         <image
+            sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Hulk_east.tex.png"
+            xlink:href="../Naked/Naked_Hulk_east.tex.png" id="image193" x="1088" y="576" width="128" height="128"
+            style="stroke-width:0.32000005;image-rendering:optimizeSpeed" />
+      </g>
+      <g id="g2556" style="filter:url(#RedFilter)">
+         <image
+            sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Fat_north.tex.png"
+            xlink:href="../Naked/Naked_Fat_north.tex.png" id="image196" x="832" y="576" width="128" height="128"
+            style="image-rendering:optimizeSpeed" />
+         <image
+            sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Hulk_north.tex.png"
+            xlink:href="../Naked/Naked_Hulk_north.tex.png" id="image198" x="832" y="576" width="128" height="128"
+            style="image-rendering:optimizeSpeed" />
+      </g>
+      <g id="g2550" style="filter:url(#RedFilter)">
+         <image
+            sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Fat_south.tex.png"
+            xlink:href="../Naked/Naked_Fat_south.tex.png" id="image201" x="1344" y="576" width="128" height="128"
+            style="image-rendering:optimizeSpeed" />
+         <image
+            sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Hulk_south.tex.png"
+            xlink:href="../Naked/Naked_Hulk_south.tex.png" id="image203" x="1344" y="576" width="128" height="128"
+            style="image-rendering:optimizeSpeed" />
+      </g>
+      <g id="g2570" style="filter:url(#RedFilter)">
+         <image
+            sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Male_east.tex.png"
+            xlink:href="../Naked/Naked_Male_east.tex.png" id="image206" x="1088" y="1344" width="128" height="128"
+            style="image-rendering:optimizeSpeed" />
+         <image
+            sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Female_east.tex.png"
+            xlink:href="../Naked/Naked_Female_east.tex.png" id="image208" x="1088" y="1344" width="128" height="128"
+            style="image-rendering:optimizeSpeed" />
+      </g>
+      <g id="g2566" style="filter:url(#RedFilter)">
+         <image
+            sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Male_north.tex.png"
+            xlink:href="../Naked/Naked_Male_north.tex.png" id="image211" x="832" y="1344" width="128" height="128"
+            style="image-rendering:optimizeSpeed" />
+         <image
+            sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Female_north.tex.png"
+            xlink:href="../Naked/Naked_Female_north.tex.png" id="image213" x="832" y="1344" width="128" height="128"
+            style="image-rendering:optimizeSpeed" />
+      </g>
+      <g id="g2574" style="filter:url(#RedFilter)">
+         <image
+            sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Male_south.tex.png"
+            xlink:href="../Naked/Naked_Male_south.tex.png" id="image216" x="1344" y="1344" width="128" height="128"
+            style="stroke-width:0.32000005;image-rendering:optimizeSpeed" />
+         <image
+            sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Female_south.tex.png"
+            xlink:href="../Naked/Naked_Female_south.tex.png" id="image218" x="1344" y="1344" width="128" height="128"
+            style="stroke-width:0.32000005;image-rendering:optimizeSpeed" />
+      </g>
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Hulk_north.tex.png"
+         xlink:href="../Naked/Naked_Hulk_north.tex.png" id="image221" x="64" y="64" width="128" height="128"
+         style="image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Hulk_north.tex.png"
+         xlink:href="../Naked/Naked_Hulk_north.tex.png" id="image223" x="832" y="832" width="128" height="128"
+         style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Female_Average_Pointy_east.png"
+         xlink:href="../Naked/Female_Average_Pointy_east.png" id="image225" x="320" y="320" width="128" height="128"
+         style="stroke-width:1.33333361;image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Female_Average_Pointy_north.png"
+         xlink:href="../Naked/Female_Average_Pointy_north.png" id="image227" x="576" y="320" width="128" height="128"
+         style="stroke-width:1.33333361;image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Female_Average_Pointy_south.png"
+         xlink:href="../Naked/Female_Average_Pointy_south.png" id="image229" x="64" y="320" width="128" height="128"
+         style="stroke-width:1.33333361;image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Female_Average_Pointy_east.png"
+         xlink:href="../Naked/Female_Average_Pointy_east.png" id="image231" x="1088" y="320"
+         style="stroke-width:0.85333347;filter:url(#RedFilter);image-rendering:optimizeSpeed" height="128"
+         width="128" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Female_Average_Pointy_north.png"
+         xlink:href="../Naked/Female_Average_Pointy_north.png" id="image233" x="1367" y="343" width="82" height="82"
+         style="stroke-width:1.33333361;filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Female_Average_Pointy_south.png"
+         xlink:href="../Naked/Female_Average_Pointy_south.png" id="image235" x="832" y="320" width="128" height="128"
+         style="stroke-width:0.85333347;filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+      <image
+         sodipodi:absref="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\../Naked/Naked_Hulk_north.tex.png"
+         xlink:href="../Naked/Naked_Hulk_north.tex.png" style="filter:url(#RedFilter);image-rendering:optimizeSpeed"
+         height="128" width="128" y="64" x="832" id="image240" />
+   </g>
+   <g inkscape:groupmode="layer" id="layer2" inkscape:label="Design">
+      <path id="use4843-7"
+         style="fill:#fff5fb;fill-opacity:1;stroke:#ff89b5;stroke-width:0.67942327;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 662.60047,1458.5288 c 0,0 0.5107,-11.3771 1.60283,-18.3032 1.35237,-8.5765 -1.3805,-14.377 0.0605,-16.313 3.70544,-4.9784 4.21642,-20.4769 4.21642,-20.4769 -4.79264,0.6136 -9.05778,-2.442 -12.03004,-14.491 l -3.82508,-0.036 c -8.00188,3.8394 -18.8528,2.8458 -23.20774,-0.1592 -1.83341,-0.019 -3.67913,-0.039 -5.53984,-0.063 -2.97226,12.049 -7.2374,15.1046 -12.03004,14.491 0,0 0.51098,15.4985 4.21642,20.4769 1.44101,1.936 -1.29186,7.7366 0.0605,16.313 1.09213,6.9261 1.60283,18.3032 1.60283,18.3032 z"
+         inkscape:connector-curvature="0" sodipodi:nodetypes="csccccccccscc" />
+      <path sodipodi:nodetypes="cssccsscccccc" inkscape:connector-curvature="0" id="path3727-6-8"
+         d="m 153.5636,1403.5403 c 0,0 -0.48589,14.7352 -4.00884,19.4684 -1.37001,1.8407 1.2283,7.3556 -0.0575,15.5097 -1.03837,6.585 -1.52386,17.4018 -1.52386,17.4018 l -42.6633,-0.246 c 0,0 -0.48549,-10.8169 -1.52386,-17.4018 -1.28582,-8.1542 1.3125,-13.6691 -0.0575,-15.5097 -3.52294,-4.7332 -4.008847,-19.4684 -4.008847,-19.4684 4.556657,0.5834 8.611767,-2.3218 11.437597,-13.7774 1.76912,0.023 3.52393,0.043 5.26703,0.06 6.03582,5.2939 15.74262,5.4547 22.06486,0.1514 1.57115,0.01 3.14181,0.022 4.71405,0.035 1.92998,11.4557 5.75791,14.3608 10.36019,13.7774 z"
+         style="fill:#fff5fb;fill-opacity:1;stroke:#ff89b5;stroke-width:0.64596295;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99489794" />
+      <path sodipodi:nodetypes="aaaaaaaaaaaaaaaaaaaa" inkscape:connector-curvature="0" id="path6364"
+         d="m 386.87571,1379.6076 c 6.3369,1.5254 11.77576,6.4216 15.75091,11.587 2.61086,3.3926 4.23167,7.6945 4.70716,11.9489 0.44087,3.9443 -0.63854,7.9762 -1.81043,11.768 -0.94847,3.0689 -2.73624,5.8128 -4.16405,8.6902 -1.11573,2.2484 -2.79793,4.272 -3.43983,6.6986 -1.08137,4.0876 0.14162,8.5008 -0.54307,12.6731 -0.31561,1.9223 -0.67358,3.9149 -1.62947,5.6125 -1.48795,2.6422 -3.41392,5.4026 -6.15551,6.6986 -5.90156,2.7896 -13.24249,2.7564 -19.55288,1.0863 -4.30448,-1.1393 -8.53657,-3.6921 -11.22481,-7.2418 -2.97333,-3.9261 -4.66038,-9.2068 -4.3451,-14.1215 0.23355,-3.6385 2.62393,-6.8471 4.52616,-9.9575 1.36702,-2.2353 3.99451,-3.6926 4.8882,-6.1555 0.82362,-2.2699 0.29585,-4.8299 0.18111,-7.2419 -0.1675,-3.5215 -1.29149,-6.975 -1.26731,-10.5005 0.0204,-3.1663 -0.10421,-6.5604 1.26731,-9.4144 1.59003,-3.3087 4.58835,-5.8728 7.6039,-7.966 1.88781,-1.3104 4.13023,-2.0732 6.3366,-2.7157 2.87672,-0.8377 5.95817,-2.1495 8.87119,-1.4484 z"
+         style="fill:#fff5fb;fill-opacity:1;stroke:#ff89b5;stroke-width:0.68089437;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:1.61490738;stroke-miterlimit:4;stroke-dasharray:0.80745366, 0.80745366;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 111.19236,1389.6141 c 3.44629,10.5198 15.3039,12.6146 16.02154,4.1259 -4.89984,-0.4618 -8.42161,-1.7394 -10.58875,-3.8742"
+         id="path6500" inkscape:connector-curvature="0" sodipodi:nodetypes="ccc" />
+      <path sodipodi:nodetypes="ccc" inkscape:connector-curvature="0" id="use6502"
+         d="m 143.43121,1389.8161 c -3.8289,10.3865 -15.63782,12.41 -16.04436,3.9006 4.58255,0.012 8.46059,-1.6005 10.91537,-3.8039"
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:1.61490738;stroke-miterlimit:4;stroke-dasharray:0.80745366, 0.80745366;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff89b5;stroke-width:1.70223594;stroke-miterlimit:4;stroke-dasharray:0.85111795, 0.85111795;stroke-dashoffset:0;stroke-opacity:0;enable-background:new"
+         d="m 376.02994,1381.5533 h 16.62559" id="path4664" inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff89b5;stroke-width:1.70223594;stroke-miterlimit:4;stroke-dasharray:0.85111795, 0.85111795;stroke-dashoffset:0;stroke-opacity:0;enable-background:new"
+         d="m 377.55875,1381.171 16.0523,1.1466 z" id="path4666" inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff89b5;stroke-width:1.70223594;stroke-miterlimit:4;stroke-dasharray:0.85111795, 0.85111795;stroke-dashoffset:0;stroke-opacity:0.52156863;enable-background:new"
+         d="m 378.58118,1381.0132 c 0.53746,2.0457 3.21751,5.5407 7.64989,5.754 2.36014,0.1135 5.21713,-0.7034 8.51205,-3.1651"
+         id="path4672" inkscape:connector-curvature="0" sodipodi:nodetypes="csc" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff8ab6;stroke-width:1.29192591;stroke-miterlimit:4;stroke-dasharray:1.29192586, 10.3354068;stroke-dashoffset:0;stroke-opacity:0.69803922;enable-background:new"
+         d="m 127.21903,1394.4331 0.0258,61.135" id="path4696" inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff8ab6;stroke-width:0.32298148;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.69803922;enable-background:new"
+         d="m 125.22477,1398.6935 -0.006,56.861" id="path4698" inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff8ab6;stroke-width:0.32298148;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.69803922;enable-background:new"
+         d="m 129.08693,1397.9936 0.0225,56.5857" id="path4700" inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:0.32298148;stroke-miterlimit:4;stroke-dasharray:0.32298146, 0.32298146;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 125.26035,1397.5104 c -1.39181,1.2726 -1.63136,2.5943 -0.006,3.9958 -1.53434,1.5602 -1.37515,2.8079 -0.006,3.8322 -1.45294,1.2894 -1.37229,2.5801 -0.006,3.8715 -1.522,1.6494 -1.21126,2.8793 -0.006,3.9043 -0.72467,0.9841 -1.89884,1.7088 -0.006,3.8019 -1.29299,1.4339 -1.52883,2.7676 -0.006,3.9347 -1.09259,1.172 -1.62489,2.3811 -0.006,3.7329 -1.44741,1.2199 -1.3778,2.5371 -0.006,3.9381 -1.21092,1.1737 -1.60298,2.426 -0.006,3.8698 -1.37187,1.3844 -1.53755,2.695 -0.006,3.902 -0.98787,1.1485 -1.71003,2.3319 -0.006,3.8355 -1.13507,1.0227 -1.76196,1.9065 -0.006,3.801 -1.44615,1.2893 -1.27645,2.5796 -0.006,3.8707 -1.26664,1.1557 -1.51398,2.4285 -0.006,3.9028 -1.44882,1.3235 -1.21104,2.6079 -0.006,3.8699"
+         id="path4700-1-51" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:0.32298148;stroke-miterlimit:4;stroke-dasharray:0.32298146, 0.32298146;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 129.11707,1397.6763 c 1.39182,1.2689 1.63138,2.5869 0.006,3.9843 1.5344,1.5557 1.37519,2.7999 0.006,3.8211 1.45296,1.2857 1.37232,2.5728 0.006,3.8604 1.52195,1.6445 1.21131,2.8709 0.006,3.893 0.72468,0.9813 1.89879,1.704 0.006,3.7909 1.29299,1.4297 1.52879,2.7596 0.006,3.9234 1.09255,1.1686 1.6249,2.3742 0.006,3.7222 1.4474,1.2162 1.37781,2.5296 0.006,3.9266 1.21093,1.1703 1.60303,2.4192 0.006,3.8586 1.37188,1.3804 1.53751,2.6872 0.006,3.8907 0.98794,1.1451 1.71007,2.3252 0.006,3.8244 1.13515,1.02 1.76199,1.9012 0.006,3.7901 1.44615,1.2856 1.27646,2.5721 0.006,3.8596 1.2666,1.1523 1.51397,2.4214 0.006,3.8915 1.44879,1.3197 1.07245,2.6235 -0.13307,3.8817"
+         id="path4700-1-51-8" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:0.33971164;stroke-miterlimit:4;stroke-dasharray:0.33971161, 0.33971161;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 643.99353,1394.7612 c 1.46396,1.3778 1.71596,2.809 0.006,4.3264 1.61393,1.6893 1.44642,3.0403 0.006,4.1494 1.52826,1.3961 1.44343,2.7936 0.006,4.1919 1.60076,1.7859 1.27399,3.1176 0.006,4.2273 0.76218,1.0656 1.9971,1.8504 0.006,4.1165 1.35993,1.5526 1.60796,2.9968 0.006,4.2605 1.14914,1.2689 1.70902,2.5781 0.006,4.0419 1.52238,1.3205 1.44917,2.7469 0.006,4.2639 1.27368,1.2708 1.68602,2.6269 0.006,4.1901 1.44292,1.4989 1.61721,2.918 0.006,4.2248 1.03917,1.2435 1.79866,2.5249 0.006,4.153 1.19388,1.1074 1.8532,2.0643 0.006,4.1155 1.52101,1.396 1.34253,2.793 0.006,4.1911 1.33217,1.2513 1.5924,2.6294 0.006,4.2256 1.52385,1.4331 1.27376,2.8238 0.006,4.1903"
+         id="path4700-1-51-8-6" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:0.33971164;stroke-miterlimit:4;stroke-dasharray:0.33971161, 0.33971161;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 646.7488,1394.596 c 1.46392,1.3778 1.71598,2.809 0.006,4.3264 1.61395,1.6893 1.44647,3.0403 0.006,4.1494 1.52837,1.3961 1.44351,2.7936 0.006,4.1919 1.60075,1.7859 1.27395,3.1176 0.006,4.2273 0.76215,1.0656 1.9971,1.8504 0.006,4.1166 1.35993,1.5526 1.60802,2.9967 0.006,4.2604 1.1491,1.2689 1.70901,2.5782 0.006,4.0419 1.52244,1.3206 1.44923,2.7469 0.006,4.2639 1.27374,1.2708 1.68609,2.6269 0.006,4.19 1.44288,1.499 1.61717,2.918 0.006,4.2249 1.03921,1.2435 1.79864,2.5249 0.006,4.153 1.19395,1.1073 1.85328,2.0643 0.006,4.1155 1.521,1.396 1.34255,2.793 0.006,4.1911 1.33222,1.2514 1.59237,2.6294 0.006,4.2256 1.52391,1.4332 1.27381,2.8239 0.006,4.1902"
+         id="path4700-1-51-8-6-0" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:0.33971164;stroke-miterlimit:4;stroke-dasharray:0.33971161, 0.33971161;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 649.4028,1394.8083 c 1.46392,1.3779 1.71598,2.8089 0.007,4.3264 1.61393,1.6893 1.44646,3.0404 0.006,4.1494 1.52836,1.3961 1.4435,2.7936 0.006,4.1919 1.60076,1.7859 1.27399,3.1176 0.006,4.2274 0.76218,1.0656 1.99711,1.8503 0.007,4.1165 1.35998,1.5526 1.60803,2.9967 0.006,4.2604 1.1491,1.269 1.70902,2.5781 0.006,4.0419 1.52243,1.3207 1.44921,2.7469 0.007,4.2639 1.27374,1.2708 1.68612,2.6269 0.006,4.1901 1.44289,1.499 1.61718,2.918 0.006,4.2249 1.0392,1.2435 1.79864,2.5248 0.006,4.1528 1.19394,1.1074 1.85327,2.0645 0.007,4.1157 1.52102,1.3959 1.34255,2.793 0.006,4.191 1.33221,1.2513 1.59235,2.6294 0.006,4.2257 1.52392,1.4331 1.27385,2.8238 0.006,4.1902"
+         id="path4700-1-51-8-6-06" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:0.33971164;stroke-miterlimit:4;stroke-dasharray:0.33971161, 0.33971161;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 638.25009,1394.8083 c -1.46392,1.3779 -1.71599,2.8089 -0.006,4.3264 -1.61393,1.6893 -1.44647,3.0404 -0.006,4.1494 -1.52836,1.3961 -1.4435,2.7936 -0.006,4.1919 -1.60079,1.7859 -1.274,3.1176 -0.006,4.2274 -0.76218,1.0656 -1.99711,1.8503 -0.006,4.1165 -1.35996,1.5526 -1.60802,2.9967 -0.006,4.2604 -1.14912,1.269 -1.70906,2.5782 -0.006,4.0419 -1.52242,1.3207 -1.44922,2.7469 -0.006,4.2639 -1.27375,1.2708 -1.68613,2.6269 -0.006,4.1901 -1.44292,1.499 -1.61724,2.918 -0.006,4.2249 -1.03921,1.2435 -1.79867,2.5248 -0.006,4.1528 -1.19394,1.1074 -1.85325,2.0645 -0.006,4.1157 -1.52104,1.3959 -1.34254,2.793 -0.006,4.191 -1.33225,1.2513 -1.59239,2.6294 -0.006,4.2257 -1.5239,1.4331 -1.27384,2.8239 -0.006,4.1902"
+         id="path4700-1-51-8-6-1" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:0.33971164;stroke-miterlimit:4;stroke-dasharray:0.33971161, 0.33971161;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 652.37527,1394.8083 c 1.46393,1.3779 1.71599,2.8089 0.006,4.3264 1.61394,1.6893 1.44646,3.0404 0.006,4.1494 1.52836,1.3961 1.44351,2.7936 0.006,4.1919 1.60076,1.7859 1.27399,3.1176 0.006,4.2274 0.76215,1.0656 1.99711,1.8503 0.006,4.1165 1.35993,1.5526 1.60803,2.9967 0.006,4.2604 1.1491,1.269 1.70903,2.5781 0.006,4.0419 1.52242,1.3207 1.44922,2.7469 0.006,4.2639 1.27375,1.2708 1.68611,2.6269 0.006,4.1901 1.44289,1.499 1.61718,2.918 0.006,4.2249 1.0392,1.2435 1.79863,2.5248 0.006,4.1528 1.19394,1.1074 1.85326,2.0645 0.006,4.1157 1.52099,1.3959 1.34254,2.793 0.006,4.191 1.3322,1.2513 1.59236,2.6294 0.006,4.2257 1.52391,1.4331 1.27382,2.8238 0.006,4.1902"
+         id="path4700-1-51-8-6-2" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:0.33971164;stroke-miterlimit:4;stroke-dasharray:0.33971161, 0.33971161;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 635.27776,1394.9127 c -1.46386,1.3777 -1.71592,2.8089 -0.006,4.3263 -1.61383,1.6893 -1.44634,3.0403 -0.006,4.1494 -1.52829,1.3962 -1.44351,2.7936 -0.006,4.192 -1.60076,1.7858 -1.27403,3.1175 -0.006,4.2273 -0.7622,1.0656 -1.99713,1.8503 -0.006,4.1165 -1.35994,1.5526 -1.60803,2.9967 -0.006,4.2604 -1.14913,1.2689 -1.70902,2.5782 -0.006,4.0419 -1.52243,1.3207 -1.4492,2.747 -0.006,4.264 -1.27367,1.2706 -1.68605,2.6269 -0.006,4.1899 -1.44285,1.4991 -1.61715,2.9181 -0.006,4.2249 -1.03925,1.2436 -1.79865,2.5249 -0.006,4.153 -1.19398,1.1074 -1.85326,2.0644 -0.006,4.1155 -1.52092,1.3961 -1.34246,2.7931 -0.006,4.1911 -1.33219,1.2513 -1.59231,2.6294 -0.006,4.2257 -1.52396,1.4331 -1.27389,2.8238 -0.006,4.1902"
+         id="path4700-1-51-8-6-1-1" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:0.33971164;stroke-miterlimit:4;stroke-dasharray:0.33971161, 0.33971161;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 632.5176,1395.125 c -1.46388,1.3777 -1.71593,2.8089 -0.007,4.3263 -1.61387,1.6894 -1.44639,3.0404 -0.006,4.1494 -1.52829,1.3962 -1.44349,2.7936 -0.006,4.1919 -1.6008,1.786 -1.27403,3.1176 -0.007,4.2274 -0.76222,1.0655 -1.99713,1.8504 -0.006,4.1164 -1.35993,1.5527 -1.60802,2.9969 -0.006,4.2606 -1.14917,1.2688 -1.70901,2.578 -0.006,4.0419 -1.52245,1.3205 -1.44924,2.7468 -0.007,4.2638 -1.27367,1.2708 -1.68605,2.6269 -0.006,4.1901 -1.44286,1.499 -1.61716,2.918 -0.006,4.2248 -1.03925,1.2435 -1.79864,2.525 -0.006,4.153 -1.19399,1.1073 -1.85325,2.0644 -0.007,4.1155 -1.52096,1.396 -1.34251,2.7931 -0.006,4.1911 -1.33219,1.2513 -1.5923,2.6294 -0.006,4.2256 -1.52394,1.4332 -1.27388,2.8239 -0.006,4.1903"
+         id="path4700-1-51-8-6-1-2" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:0.33971164;stroke-miterlimit:4;stroke-dasharray:0.33971161, 0.33971161;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 629.65128,1394.9127 c -1.46385,1.3778 -1.71591,2.8089 -0.007,4.3263 -1.61382,1.6893 -1.44633,3.0403 -0.006,4.1494 -1.5283,1.3962 -1.44352,2.7936 -0.006,4.192 -1.60075,1.7858 -1.27403,3.1175 -0.006,4.2274 -0.76221,1.0655 -1.99714,1.8502 -0.007,4.1164 -1.35993,1.5526 -1.60803,2.9967 -0.006,4.2604 -1.14919,1.2689 -1.70902,2.5782 -0.006,4.042 -1.52244,1.3206 -1.44923,2.7469 -0.006,4.2639 -1.27368,1.2706 -1.68606,2.6269 -0.006,4.1899 -1.44286,1.4991 -1.61717,2.9181 -0.006,4.2249 -1.03923,1.2436 -1.79865,2.5249 -0.006,4.153 -1.19398,1.1074 -1.85326,2.0644 -0.007,4.1155 -1.52091,1.3961 -1.34247,2.7931 -0.006,4.1911 -1.33218,1.2513 -1.5923,2.6294 -0.006,4.2257 -1.52394,1.4331 -1.27389,2.8238 -0.006,4.1902"
+         id="path4700-1-51-8-6-1-8" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:1.69855821;stroke-miterlimit:4;stroke-dasharray:0.84927904, 0.84927904;stroke-dashoffset:0;stroke-opacity:0.51372549;enable-background:new"
+         d="m 623.63469,1388.7119 c 4.19737,14.9872 34.36798,11.9851 32.89808,0.2599 m -3.45333,-0.024 c -8.53532,3.7601 -17.98592,3.5676 -24.0668,-0.1954"
+         id="path6500-3" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:none;stroke-width:1.70223594;stroke-miterlimit:4;stroke-dasharray:0.85111795, 0.85111795;stroke-dashoffset:0;stroke-opacity:0.52040818;enable-background:new"
+         d="m 378.6635,1380.9206 c 0.82359,3.135 6.67906,9.6736 16.16184,2.589 l -2.0643,-1.2736 -2.61647,-1.428 -2.54593,-0.8837 -2.3253,-0.419 -2.21793,0.2435 -1.6539,0.4164 z"
+         id="path4672-5" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccc" />
+      <g style="fill:#800000;fill-opacity:0.98979594;stroke:#ff0000;stroke-width:15.13498688;stroke-opacity:1;enable-background:new"
+         transform="matrix(0.92065313,0,-0.02762842,0.70659437,846.41473,1366.2027)" id="g391">
+         <path sodipodi:nodetypes="cssccsscccccc" inkscape:connector-curvature="0" id="path389"
+            d="m 83.211363,52.841609 c 0,0 0.09804,20.853904 -3.527513,27.552481 -1.409908,2.604952 1.646565,10.409854 0.596241,21.94994 -0.848193,9.31927 -0.916125,24.62766 -0.916125,24.62766 l -46.350704,-0.34818 c 0,0 -0.986729,-15.30839 -2.394257,-24.62766 -1.74295,-11.54009 0.845079,-19.344992 -0.721176,-21.949944 -4.027594,-6.698577 -5.181191,-27.552481 -5.181191,-27.552481 4.974152,0.825669 9.255375,-3.285801 11.838216,-19.498241 1.922566,0.03253 3.829457,0.06044 5.72352,0.08487 6.780856,7.492184 17.331072,7.719785 23.972959,0.214287 1.706999,0.01475 3.413511,0.03079 5.121809,0.04903 2.582842,16.212438 6.864062,20.323908 11.838221,19.498238 z"
+            style="fill:#800000;fill-opacity:0.98979594;stroke:#ff0000;stroke-width:0.80089301;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <path
+         style="fill:#800000;fill-opacity:1;stroke:#ff0000;stroke-width:0.68089437;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m 1154.8757,1379.6076 c 6.3369,1.5254 11.7758,6.4216 15.7509,11.587 2.6109,3.3926 4.2317,7.6945 4.7072,11.9489 0.4409,3.9443 -0.6386,7.9762 -1.8104,11.768 -0.9485,3.0689 -2.7363,5.8128 -4.1641,8.6902 -1.1157,2.2484 -2.7979,4.272 -3.4398,6.6986 -1.0814,4.0876 0.1416,8.5008 -0.5431,12.6731 -0.3156,1.9223 -0.6736,3.9149 -1.6295,5.6125 -1.4879,2.6422 -3.4139,5.4026 -6.1555,6.6986 -5.9015,2.7896 -13.2425,2.7564 -19.5529,1.0863 -4.3044,-1.1393 -8.5365,-3.6921 -11.2248,-7.2418 -2.9733,-3.9261 -4.6603,-9.2068 -4.3451,-14.1215 0.2336,-3.6385 2.624,-6.8471 4.5262,-9.9575 1.367,-2.2353 3.9945,-3.6926 4.8882,-6.1555 0.8236,-2.2699 0.2958,-4.8299 0.1811,-7.2419 -0.1675,-3.5215 -1.2915,-6.975 -1.2673,-10.5005 0.02,-3.1663 -0.1042,-6.5604 1.2673,-9.4144 1.59,-3.3087 4.5884,-5.8728 7.6039,-7.966 1.8878,-1.3104 4.1302,-2.0732 6.3366,-2.7157 2.8767,-0.8377 5.9582,-2.1495 8.8712,-1.4484 z"
+         id="path393" inkscape:connector-curvature="0" sodipodi:nodetypes="aaaaaaaaaaaaaaaaaaaa" />
+      <path sodipodi:nodetypes="ccc" inkscape:connector-curvature="0" id="path395"
+         d="m 879.19236,1389.6141 c 3.44629,10.5198 15.3039,12.6146 16.02154,4.1259 -4.23784,-0.4382 -7.83154,-1.5199 -10.58875,-3.8742"
+         style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:1.61490738;stroke-miterlimit:4;stroke-dasharray:0.80745366, 0.80745366;stroke-dashoffset:0;stroke-opacity:0.51530612;enable-background:new" />
+      <path
+         style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:1.61490738;stroke-miterlimit:4;stroke-dasharray:0.80745366, 0.80745366;stroke-dashoffset:0;stroke-opacity:0.51530612;enable-background:new"
+         d="m 911.43121,1389.8161 c -3.8289,10.3865 -15.63782,12.41 -16.04436,3.9006 4.25101,-0.283 7.76448,-1.5961 10.60601,-3.8481"
+         id="path397" inkscape:connector-curvature="0" sodipodi:nodetypes="ccc" />
+      <path inkscape:connector-curvature="0" id="path399" d="m 1144.0299,1381.5533 h 16.6256"
+         style="fill:none;fill-opacity:1;stroke:#ff89b5;stroke-width:1.70223594;stroke-miterlimit:4;stroke-dasharray:0.85111795, 0.85111795;stroke-dashoffset:0;stroke-opacity:0;enable-background:new" />
+      <path inkscape:connector-curvature="0" id="path401" d="m 1145.5588,1381.171 16.0523,1.1466 z"
+         style="fill:none;fill-opacity:1;stroke:#ff89b5;stroke-width:1.70223594;stroke-miterlimit:4;stroke-dasharray:0.85111795, 0.85111795;stroke-dashoffset:0;stroke-opacity:0;enable-background:new" />
+      <path sodipodi:nodetypes="csc" inkscape:connector-curvature="0" id="path403"
+         d="m 1146.5812,1381.0132 c 0.5374,2.0457 3.2175,5.5407 7.6499,5.754 2.3601,0.1135 5.2171,-0.7034 8.512,-3.1651"
+         style="fill:none;fill-opacity:1;stroke:#00d800;stroke-width:1.70223594;stroke-miterlimit:4;stroke-dasharray:0.85111795, 0.85111795;stroke-dashoffset:0;stroke-opacity:0.52040818;enable-background:new" />
+      <path sodipodi:nodetypes="cc" inkscape:connector-curvature="0" id="path405"
+         d="m 895.21903,1394.4331 0.0258,61.135"
+         style="fill:#ff89b5;fill-opacity:1;stroke:#00ff00;stroke-width:1.29192591;stroke-miterlimit:4;stroke-dasharray:1.29192586, 10.3354068;stroke-dashoffset:0;stroke-opacity:0.69803922;enable-background:new" />
+      <path sodipodi:nodetypes="cc" inkscape:connector-curvature="0" id="path407"
+         d="m 893.22477,1398.6935 -0.006,56.861"
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff8ab6;stroke-width:0.32298148;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.69803922;enable-background:new" />
+      <path sodipodi:nodetypes="cc" inkscape:connector-curvature="0" id="path409"
+         d="m 897.08693,1397.9936 0.0225,56.5857"
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff8ab6;stroke-width:0.32298148;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.69803922;enable-background:new" />
+      <path sodipodi:nodetypes="cccccccccccccccc" inkscape:connector-curvature="0" id="path411"
+         d="m 893.26035,1397.5104 c -1.39181,1.2726 -1.63136,2.5943 -0.006,3.9958 -1.53434,1.5602 -1.37515,2.8079 -0.006,3.8322 -1.45294,1.2894 -1.37229,2.5801 -0.006,3.8715 -1.522,1.6494 -1.21126,2.8793 -0.006,3.9043 -0.72467,0.9841 -1.89884,1.7088 -0.006,3.8019 -1.29299,1.4339 -1.52883,2.7676 -0.006,3.9347 -1.09259,1.172 -1.62489,2.3811 -0.006,3.7329 -1.44741,1.2199 -1.3778,2.5371 -0.006,3.9381 -1.21092,1.1737 -1.60298,2.426 -0.006,3.8698 -1.37187,1.3844 -1.53755,2.695 -0.006,3.902 -0.98787,1.1485 -1.71003,2.3319 -0.006,3.8355 -1.13507,1.0227 -1.76196,1.9065 -0.006,3.801 -1.44615,1.2893 -1.27645,2.5796 -0.006,3.8707 -1.26664,1.1557 -1.51398,2.4285 -0.006,3.9028 -1.44882,1.3235 -1.21104,2.6079 -0.006,3.8699"
+         style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:0.32298148;stroke-miterlimit:4;stroke-dasharray:0.32298146, 0.32298146;stroke-dashoffset:0;stroke-opacity:0.51530612;enable-background:new" />
+      <path sodipodi:nodetypes="cccccccccccccccc" inkscape:connector-curvature="0" id="path413"
+         d="m 897.11707,1397.6763 c 1.39182,1.2689 1.63138,2.5869 0.006,3.9843 1.5344,1.5557 1.37519,2.7999 0.006,3.8211 1.45296,1.2857 1.37232,2.5728 0.006,3.8604 1.52195,1.6445 1.21131,2.8709 0.006,3.893 0.72468,0.9813 1.89879,1.704 0.006,3.7909 1.29299,1.4297 1.52879,2.7596 0.006,3.9234 1.09255,1.1686 1.6249,2.3742 0.006,3.7222 1.4474,1.2162 1.37781,2.5296 0.006,3.9266 1.21093,1.1703 1.60303,2.4192 0.006,3.8586 1.37188,1.3804 1.53751,2.6872 0.006,3.8907 0.98794,1.1451 1.71007,2.3252 0.006,3.8244 1.13515,1.02 1.76199,1.9012 0.006,3.7901 1.44615,1.2856 1.27646,2.5721 0.006,3.8596 1.2666,1.1523 1.51397,2.4214 0.006,3.8915 1.44879,1.3197 1.07245,2.6235 -0.13307,3.8817"
+         style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:0.32298148;stroke-miterlimit:4;stroke-dasharray:0.32298146, 0.32298146;stroke-dashoffset:0;stroke-opacity:0.51530612;enable-background:new" />
+      <path sodipodi:nodetypes="ccccccccc" inkscape:connector-curvature="0" id="path433"
+         d="m 1146.6635,1380.9206 c 0.8236,3.135 6.6791,9.6736 16.1618,2.589 l -2.0643,-1.2736 -2.6164,-1.428 -2.546,-0.8837 -2.3253,-0.419 -2.2179,0.2435 -1.6539,0.4164 z"
+         style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.70223594;stroke-miterlimit:4;stroke-dasharray:0.85111795, 0.85111795;stroke-dashoffset:0;stroke-opacity:0.52040818;enable-background:new" />
+      <path id="use4843-7-1"
+         style="fill:#800003;fill-opacity:1;stroke:#ff0001;stroke-width:0.67942327;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m 1430.5505,1458.5788 c 0,0 0.5107,-11.3771 1.6028,-18.3032 1.3524,-8.5765 -1.3805,-14.377 0.061,-16.313 3.7054,-4.9784 4.2164,-20.4769 4.2164,-20.4769 -4.7926,0.6136 -9.0578,-2.442 -12.03,-14.491 l -3.8251,-0.036 c -8.0019,3.8394 -18.8528,2.8458 -23.2077,-0.1592 -1.8335,-0.019 -3.6792,-0.039 -5.5399,-0.063 -2.9722,12.049 -7.2374,15.1046 -12.03,14.491 0,0 0.511,15.4985 4.2164,20.4769 1.441,1.936 -1.2919,7.7366 0.061,16.313 1.0921,6.9261 1.6028,18.3032 1.6028,18.3032 z"
+         inkscape:connector-curvature="0" sodipodi:nodetypes="csccccccccscc" />
+      <path
+         style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:0.33971164;stroke-miterlimit:4;stroke-dasharray:0.33971161, 0.33971161;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 1411.9435,1394.8112 c 1.464,1.3778 1.716,2.809 0.01,4.3264 1.614,1.6893 1.4464,3.0403 0.01,4.1494 1.5283,1.3961 1.4435,2.7936 0.01,4.1919 1.6008,1.7859 1.274,3.1176 0.01,4.2273 0.7622,1.0656 1.9971,1.8504 0.01,4.1165 1.36,1.5526 1.608,2.9968 0.01,4.2605 1.1492,1.2689 1.709,2.5781 0.01,4.0419 1.5224,1.3205 1.4492,2.7469 0.01,4.2639 1.2737,1.2708 1.686,2.6269 0.01,4.1901 1.4429,1.4989 1.6172,2.918 0.01,4.2248 1.0392,1.2435 1.7987,2.5249 0.01,4.153 1.1939,1.1074 1.8532,2.0643 0.01,4.1155 1.521,1.396 1.3426,2.793 0.01,4.1911 1.3322,1.2513 1.5924,2.6294 0.01,4.2256 1.5239,1.4331 1.2738,2.8238 0.01,4.1903"
+         id="path4700-1-51-8-6-20" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:0.33971164;stroke-miterlimit:4;stroke-dasharray:0.33971161, 0.33971161;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 1414.6988,1394.646 c 1.4639,1.3778 1.716,2.809 0.01,4.3264 1.6139,1.6893 1.4465,3.0403 0.01,4.1494 1.5284,1.3961 1.4435,2.7936 0.01,4.1919 1.6007,1.7859 1.2739,3.1176 0.01,4.2273 0.7621,1.0656 1.9971,1.8504 0.01,4.1166 1.3599,1.5526 1.608,2.9967 0.01,4.2604 1.1491,1.2689 1.709,2.5782 0.01,4.0419 1.5224,1.3206 1.4492,2.7469 0.01,4.2639 1.2737,1.2708 1.6861,2.6269 0.01,4.19 1.4429,1.499 1.6172,2.918 0.01,4.2249 1.0392,1.2435 1.7986,2.5249 0.01,4.153 1.1939,1.1073 1.8533,2.0643 0.01,4.1155 1.521,1.396 1.3425,2.793 0.01,4.1911 1.3322,1.2514 1.5924,2.6294 0.01,4.2256 1.5239,1.4332 1.2738,2.8239 0.01,4.1902"
+         id="path4700-1-51-8-6-0-3" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:0.33971164;stroke-miterlimit:4;stroke-dasharray:0.33971161, 0.33971161;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 1417.3528,1394.8583 c 1.4639,1.3779 1.716,2.8089 0.01,4.3264 1.6139,1.6893 1.4465,3.0404 0.01,4.1494 1.5284,1.3961 1.4435,2.7936 0.01,4.1919 1.6008,1.7859 1.274,3.1176 0.01,4.2274 0.7622,1.0656 1.9971,1.8503 0.01,4.1165 1.36,1.5526 1.608,2.9967 0.01,4.2604 1.1491,1.269 1.709,2.5781 0.01,4.0419 1.5224,1.3207 1.4492,2.7469 0.01,4.2639 1.2737,1.2708 1.6861,2.6269 0.01,4.1901 1.4429,1.499 1.6172,2.918 0.01,4.2249 1.0392,1.2435 1.7986,2.5248 0.01,4.1528 1.1939,1.1074 1.8533,2.0645 0.01,4.1157 1.521,1.3959 1.3425,2.793 0.01,4.191 1.3322,1.2513 1.5923,2.6294 0.01,4.2257 1.5239,1.4331 1.2738,2.8238 0.01,4.1902"
+         id="path4700-1-51-8-6-06-4" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:0.33971164;stroke-miterlimit:4;stroke-dasharray:0.33971161, 0.33971161;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 1406.2001,1394.8583 c -1.4639,1.3779 -1.716,2.8089 -0.01,4.3264 -1.6139,1.6893 -1.4465,3.0404 -0.01,4.1494 -1.5284,1.3961 -1.4435,2.7936 -0.01,4.1919 -1.6008,1.7859 -1.274,3.1176 -0.01,4.2274 -0.7622,1.0656 -1.9971,1.8503 -0.01,4.1165 -1.36,1.5526 -1.608,2.9967 -0.01,4.2604 -1.1491,1.269 -1.7091,2.5782 -0.01,4.0419 -1.5224,1.3207 -1.4492,2.7469 -0.01,4.2639 -1.2738,1.2708 -1.6861,2.6269 -0.01,4.1901 -1.4429,1.499 -1.6173,2.918 -0.01,4.2249 -1.0392,1.2435 -1.7987,2.5248 -0.01,4.1528 -1.194,1.1074 -1.8533,2.0645 -0.01,4.1157 -1.5211,1.3959 -1.3426,2.793 -0.01,4.191 -1.3323,1.2513 -1.5924,2.6294 -0.01,4.2257 -1.5239,1.4331 -1.2739,2.8239 -0.01,4.1902"
+         id="path4700-1-51-8-6-1-4" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:0.33971164;stroke-miterlimit:4;stroke-dasharray:0.33971161, 0.33971161;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 1420.3253,1394.8583 c 1.4639,1.3779 1.716,2.8089 0.01,4.3264 1.6139,1.6893 1.4464,3.0404 0.01,4.1494 1.5283,1.3961 1.4435,2.7936 0.01,4.1919 1.6007,1.7859 1.274,3.1176 0.01,4.2274 0.7621,1.0656 1.9971,1.8503 0.01,4.1165 1.3599,1.5526 1.608,2.9967 0.01,4.2604 1.1491,1.269 1.709,2.5781 0.01,4.0419 1.5224,1.3207 1.4492,2.7469 0.01,4.2639 1.2737,1.2708 1.6861,2.6269 0.01,4.1901 1.4429,1.499 1.6171,2.918 0.01,4.2249 1.0392,1.2435 1.7986,2.5248 0.01,4.1528 1.1939,1.1074 1.8532,2.0645 0.01,4.1157 1.521,1.3959 1.3425,2.793 0.01,4.191 1.3322,1.2513 1.5923,2.6294 0.01,4.2257 1.5239,1.4331 1.2738,2.8238 0.01,4.1902"
+         id="path4700-1-51-8-6-2-5" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:0.33971164;stroke-miterlimit:4;stroke-dasharray:0.33971161, 0.33971161;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 1403.2278,1394.9627 c -1.4639,1.3777 -1.716,2.8089 -0.01,4.3263 -1.6139,1.6893 -1.4464,3.0403 -0.01,4.1494 -1.5283,1.3962 -1.4436,2.7936 -0.01,4.192 -1.6008,1.7858 -1.2741,3.1175 -0.01,4.2273 -0.7622,1.0656 -1.9972,1.8503 -0.01,4.1165 -1.36,1.5526 -1.6081,2.9967 -0.01,4.2604 -1.1492,1.2689 -1.7091,2.5782 -0.01,4.0419 -1.5225,1.3207 -1.4492,2.747 -0.01,4.264 -1.2737,1.2706 -1.6861,2.6269 -0.01,4.1899 -1.4429,1.4991 -1.6172,2.9181 -0.01,4.2249 -1.0393,1.2436 -1.7987,2.5249 -0.01,4.153 -1.194,1.1074 -1.8533,2.0644 -0.01,4.1155 -1.521,1.3961 -1.3425,2.7931 -0.01,4.1911 -1.3322,1.2513 -1.5924,2.6294 -0.01,4.2257 -1.524,1.4331 -1.2739,2.8238 -0.01,4.1902"
+         id="path4700-1-51-8-6-1-1-8" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:0.33971164;stroke-miterlimit:4;stroke-dasharray:0.33971161, 0.33971161;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 1400.4676,1395.175 c -1.4639,1.3777 -1.7159,2.8089 -0.01,4.3263 -1.6139,1.6894 -1.4464,3.0404 -0.01,4.1494 -1.5283,1.3962 -1.4435,2.7936 -0.01,4.1919 -1.6008,1.786 -1.274,3.1176 -0.01,4.2274 -0.7622,1.0655 -1.9971,1.8504 -0.01,4.1164 -1.3599,1.5527 -1.608,2.9969 -0.01,4.2606 -1.1492,1.2688 -1.709,2.578 -0.01,4.0419 -1.5225,1.3205 -1.4492,2.7468 -0.01,4.2638 -1.2737,1.2708 -1.6861,2.6269 -0.01,4.1901 -1.4429,1.499 -1.6172,2.918 -0.01,4.2248 -1.0393,1.2435 -1.7986,2.525 -0.01,4.153 -1.194,1.1073 -1.8533,2.0644 -0.01,4.1155 -1.521,1.396 -1.3425,2.7931 -0.01,4.1911 -1.3322,1.2513 -1.5923,2.6294 -0.01,4.2256 -1.5239,1.4332 -1.2739,2.8239 -0.01,4.1903"
+         id="path4700-1-51-8-6-1-2-8" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:0.33971164;stroke-miterlimit:4;stroke-dasharray:0.33971161, 0.33971161;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 1397.6013,1394.9627 c -1.4639,1.3778 -1.7159,2.8089 -0.01,4.3263 -1.6138,1.6893 -1.4464,3.0403 -0.01,4.1494 -1.5283,1.3962 -1.4435,2.7936 -0.01,4.192 -1.6008,1.7858 -1.2741,3.1175 -0.01,4.2274 -0.7622,1.0655 -1.9972,1.8502 -0.01,4.1164 -1.36,1.5526 -1.6081,2.9967 -0.01,4.2604 -1.1492,1.2689 -1.709,2.5782 -0.01,4.042 -1.5225,1.3206 -1.4493,2.7469 -0.01,4.2639 -1.2737,1.2706 -1.6861,2.6269 -0.01,4.1899 -1.4429,1.4991 -1.6172,2.9181 -0.01,4.2249 -1.0393,1.2436 -1.7987,2.5249 -0.01,4.153 -1.194,1.1074 -1.8533,2.0644 -0.01,4.1155 -1.5209,1.3961 -1.3425,2.7931 -0.01,4.1911 -1.3322,1.2513 -1.5923,2.6294 -0.01,4.2257 -1.524,1.4331 -1.2739,2.8238 -0.01,4.1902"
+         id="path4700-1-51-8-6-1-8-3" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:1.69855821;stroke-miterlimit:4;stroke-dasharray:0.84927904, 0.84927904;stroke-dashoffset:0;stroke-opacity:0.51372549;enable-background:new"
+         d="m 1391.5847,1388.7619 c 4.1974,14.9872 34.368,11.9851 32.8981,0.2599 m -3.4534,-0.024 c -8.5353,3.7601 -17.9859,3.5676 -24.0668,-0.1954"
+         id="path6500-3-6" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#fff5fb;fill-opacity:1;stroke:#ff89b5;stroke-width:0.64596295;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99489794"
+         d="m 154.33167,106.5397 c 0,0 -0.48589,14.7352 -4.00884,19.4684 -1.37001,1.8407 1.2283,7.3556 -0.0575,15.5097 -1.03837,6.585 -1.52386,17.4018 -1.52386,17.4018 l -42.6633,-0.246 c 0,0 -0.48549,-10.8169 -1.52386,-17.4018 -1.28582,-8.1542 1.3125,-13.6691 -0.0575,-15.5097 -3.52294,-4.7332 -4.00885,-19.4684 -4.00885,-19.4684 4.55666,0.5834 8.61177,-2.3218 11.4376,-13.7774 1.76912,0.023 3.52393,0.043 5.26703,0.06 6.03582,5.2939 15.74262,5.4547 22.06486,0.1514 1.57115,0.01 3.14181,0.022 4.71405,0.035 1.92998,11.4557 5.75791,14.3608 10.36019,13.7774 z"
+         id="path1291" inkscape:connector-curvature="0" sodipodi:nodetypes="cssccsscccccc" />
+      <path sodipodi:nodetypes="ccc" inkscape:connector-curvature="0" id="path1293"
+         d="m 111.96043,92.6135 c 3.44629,10.5198 15.3039,12.6146 16.02154,4.1259 C 123.08213,96.2776 119.56036,95 117.39322,92.8652"
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:1.61490738;stroke-miterlimit:4;stroke-dasharray:0.80745366, 0.80745366;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new" />
+      <path
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:1.61490738;stroke-miterlimit:4;stroke-dasharray:0.80745366, 0.80745366;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new"
+         d="m 144.19928,92.8155 c -3.8289,10.3865 -15.63782,12.41 -16.04436,3.9006 4.58255,0.012 8.46059,-1.6005 10.91537,-3.8039"
+         id="path1295" inkscape:connector-curvature="0" sodipodi:nodetypes="ccc" />
+      <path sodipodi:nodetypes="cc" inkscape:connector-curvature="0" id="path1297" d="m 127.9871,97.4325 0.0258,61.135"
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff8ab6;stroke-width:1.29192591;stroke-miterlimit:4;stroke-dasharray:1.29192586, 10.3354068;stroke-dashoffset:0;stroke-opacity:0.69803922;enable-background:new" />
+      <path sodipodi:nodetypes="cc" inkscape:connector-curvature="0" id="path1299"
+         d="m 125.99284,101.6929 -0.006,56.861"
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff8ab6;stroke-width:0.32298148;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.69803922;enable-background:new" />
+      <path sodipodi:nodetypes="cc" inkscape:connector-curvature="0" id="path1301" d="m 129.855,100.993 0.0225,56.5857"
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff8ab6;stroke-width:0.32298148;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.69803922;enable-background:new" />
+      <path sodipodi:nodetypes="cccccccccccccccc" inkscape:connector-curvature="0" id="path1303"
+         d="m 126.02842,100.5098 c -1.39181,1.2726 -1.63136,2.5943 -0.006,3.9958 -1.53434,1.5602 -1.37515,2.8079 -0.006,3.8322 -1.45294,1.2894 -1.37229,2.5801 -0.006,3.8715 -1.522,1.6494 -1.21126,2.8793 -0.006,3.9043 -0.72467,0.9841 -1.89884,1.7088 -0.006,3.8019 -1.29299,1.4339 -1.52883,2.7676 -0.006,3.9347 -1.09259,1.172 -1.62489,2.3811 -0.006,3.7329 -1.44741,1.2199 -1.3778,2.5371 -0.006,3.9381 -1.21092,1.1737 -1.60298,2.426 -0.006,3.8698 -1.37187,1.3844 -1.53755,2.695 -0.006,3.902 -0.98787,1.1485 -1.71003,2.3319 -0.006,3.8355 -1.13507,1.0227 -1.76196,1.9065 -0.006,3.801 -1.44615,1.2893 -1.27645,2.5796 -0.006,3.8707 -1.26664,1.1557 -1.51398,2.4285 -0.006,3.9028 -1.44882,1.3235 -1.21104,2.6079 -0.006,3.8699"
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:0.32298148;stroke-miterlimit:4;stroke-dasharray:0.32298146, 0.32298146;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new" />
+      <path sodipodi:nodetypes="cccccccccccccccc" inkscape:connector-curvature="0" id="path1305"
+         d="m 129.88514,100.6757 c 1.39182,1.2689 1.63138,2.5869 0.006,3.9843 1.5344,1.5557 1.37519,2.7999 0.006,3.8211 1.45296,1.2857 1.37232,2.5728 0.006,3.8604 1.52195,1.6445 1.21131,2.8709 0.006,3.893 0.72468,0.9813 1.89879,1.704 0.006,3.7909 1.29299,1.4297 1.52879,2.7596 0.006,3.9234 1.09255,1.1686 1.6249,2.3742 0.006,3.7222 1.4474,1.2162 1.37781,2.5296 0.006,3.9266 1.21093,1.1703 1.60303,2.4192 0.006,3.8586 1.37188,1.3804 1.53751,2.6872 0.006,3.8907 0.98794,1.1451 1.71007,2.3252 0.006,3.8244 1.13515,1.02 1.76199,1.9012 0.006,3.7901 1.44615,1.2856 1.27646,2.5721 0.006,3.8596 1.2666,1.1523 1.51397,2.4214 0.006,3.8915 1.44879,1.3197 1.07245,2.6235 -0.13307,3.8817"
+         style="fill:#ff89b5;fill-opacity:1;stroke:#ff89b5;stroke-width:0.32298148;stroke-miterlimit:4;stroke-dasharray:0.32298146, 0.32298146;stroke-dashoffset:0;stroke-opacity:0.5372549;enable-background:new" />
+   </g>
+</svg>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<ThingDef Name="ApparelCustomBase" Abstract="True">
+		<thingClass>Apparel</thingClass>
+		<category>Item</category>
+		<selectable>True</selectable>
+		<pathCost>10</pathCost>
+		<useHitPoints>True</useHitPoints>
+		<techLevel>Medieval</techLevel>
+		<graphicData>
+			<onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<color>(255,255,255)</color>
+			<colorTwo>(236,158,195)</colorTwo>
+		</graphicData>
+		<drawGUIOverlay>true</drawGUIOverlay>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+			<DeteriorationRate>2</DeteriorationRate>
+			<Beauty>-4</Beauty>
+			<SellPriceFactor>0.70</SellPriceFactor>
+		</statBases>
+		<altitudeLayer>Item</altitudeLayer>
+		<alwaysHaulable>True</alwaysHaulable>
+		<tickerType>Never</tickerType>
+		<comps>
+			<li Class="CompProperties_Forbiddable" />
+			<li>
+				<compClass>CompColorable</compClass>
+			</li>
+			<li>
+				<compClass>CompQuality</compClass>
+			</li>
+			<li Class="FactionColors.CompProperties_FactionColor">
+				<compClass>FactionColors.CompFactionColor</compClass>
+				<UseSecondaryColors>true</UseSecondaryColors>
+				<Coloring Class="ColorGenerator_Options">
+					<options>
+			<li>
+				<weight>10</weight>
+				<only>RGBA(0.33,0.33,0.33,1)</only>
+			</li>
+			<li>
+				<weight>10</weight>
+				<only>RGBA(0.22,0.65,0.22,1)</only>
+			</li>
+			<li>
+				<weight>10</weight>
+				<only>RGBA(0.7,0.0,0.0,1)</only>
+			</li>
+			<li>
+				<weight>10</weight>
+				<only>RGBA(0.63,0.70,0.71,1)</only>
+			</li>
+			<li>
+				<weight>10</weight>
+				<only>RGBA(0.69,0.0,0.26,1)</only>
+			</li>
+			<li>
+				<weight>30</weight>
+				<only>RGBA(0.7,0.7,0.7,1)</only>
+			</li>
+			<li>
+				<weight>20</weight>
+				<only>RGBA(1.0,0.92,0.48,1)</only>
+			</li>
+			</options>
+			</Coloring>
+			</li>
+		</comps>
+		<thingCategories>
+			<li>Apparel</li>
+		</thingCategories>
+		<apparel>
+			<tags>
+				<li>Apparel</li>
+			</tags>
+		</apparel>
+		<tradeTags>
+			<li>Apparel</li>
+		</tradeTags>
+	</ThingDef>
+
+</Defs>

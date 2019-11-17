@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<ThingDef Name="ApparelBackpack" ParentName="ApparelMakeableBase" Abstract="True">
+		<!--
+			<modExtensions>
+			<li Class="JecsTools.ApparelExtension">
+				<coverage>
+					<li>Shoulders</li>
+					</coverage>
+			</li>
+		</modExtensions>
+		-->
+		<apparel>
+			<layers>
+				<li>Shell</li>
+			</layers>
+			<bodyPartGroups>
+				<li>Shoulders</li>
+			</bodyPartGroups>
+			<defaultOutfitTags>
+				<li>Worker</li>
+				<li>Soldier</li>
+			</defaultOutfitTags>
+			<tags>
+				<li>Backpack</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+
+</Defs>

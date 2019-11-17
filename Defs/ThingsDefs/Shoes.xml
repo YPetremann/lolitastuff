@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<ThingDef ParentName="ApparelShoes">
+		<defName>Shoes</defName>
+		<label>shoes</label>
+		<description>Basic Lolita Shoes.</description>
+		<!-- Graphic -->
+		<graphicData>
+			<texPath>Apparel/Misc/Shoes</texPath>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Apparel/Misc/Null</wornGraphicPath>
+		</apparel>
+		<!-- Recipe -->
+		<costStuffCount>100</costStuffCount>
+		<stuffCategories>
+			<li>Leathery</li>
+		</stuffCategories>
+		<costList>
+			<Silver>20</Silver>
+			<WoodLog>20</WoodLog>
+		</costList>
+		<!-- Stats -->
+		<statBases>
+			<WorkToMake>7200</WorkToMake>
+			<MaxHitPoints>250</MaxHitPoints>
+			<Mass>2.2</Mass>
+			<StuffEffectMultiplierArmor>1.2</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.50</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>1.20</StuffEffectMultiplierInsulation_Heat>
+			<Beauty>16</Beauty>
+		</statBases>
+		<equippedStatOffsets>
+			<MoveSpeed>0.5</MoveSpeed>
+			<SocialImpact>0.25</SocialImpact>
+		</equippedStatOffsets>
+	</ThingDef>
+
+</Defs>

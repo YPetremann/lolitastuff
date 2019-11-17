@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<ThingDef ParentName="ApparelBackpack">
+		<defName>UsakumyaBackpack</defName>
+		<label>Usakumya backpack</label>
+		<description>A backpack of the lolita's bunny bear god.</description>
+		<!-- Graphic -->
+		<graphicData>
+			<texPath>Apparel/Usakumya/Backpack</texPath>
+			<color>(255,255,255)</color>
+			<colorTwo>(236,158,195)</colorTwo>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>Apparel/Usakumya/Backpack</wornGraphicPath>
+		</apparel>
+		<!-- Recipe -->
+		<recipeMaker>
+			<researchPrerequisite>ComplexClothing</researchPrerequisite>
+		</recipeMaker>
+		<costStuffCount>45</costStuffCount>
+		<stuffCategories>
+			<li>Fabric</li>
+			<li>Leathery</li>
+		</stuffCategories>
+		<costList>
+			<Steel>10</Steel>
+		</costList>
+		<!-- Stats -->
+		<statBases>
+			<MaxHitPoints>150</MaxHitPoints>
+			<WorkToMake>15000</WorkToMake>
+			<Mass>0.3</Mass>
+			<ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+			<Beauty>4</Beauty>
+			<EquipDelay>1</EquipDelay>
+		</statBases>
+		<equippedStatOffsets>
+			<CarryingCapacity>23</CarryingCapacity>
+		</equippedStatOffsets>
+	</ThingDef>
+
+</Defs>
