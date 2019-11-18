@@ -7,7 +7,7 @@
 		<description>A backpack of the lolita's bunny bear god.</description>
 		<!-- Graphic -->
 		<graphicData>
-			<texPath>Apparel/Usakumya/Backpack</texPath>
+			<texPath>Apparel/Usakumya/Backpack_Icon</texPath>
 			<color>(255,255,255)</color>
 			<colorTwo>(236,158,195)</colorTwo>
 		</graphicData>

@@ -7,7 +7,7 @@
 		<description>Corset.</description>
 		<!-- Graphic -->
 		<graphicData>
-			<texPath>Apparel/Corset/Dress</texPath>
+			<texPath>Apparel/Corset/Dress_Icon</texPath>
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>Apparel/Corset/Dress</wornGraphicPath>

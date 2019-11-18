@@ -7,7 +7,7 @@
 		<description>Basic Lolita Shoes.</description>
 		<!-- Graphic -->
 		<graphicData>
-			<texPath>Apparel/Misc/Shoes</texPath>
+			<texPath>Apparel/Misc/Shoes_Icon</texPath>
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>Apparel/Misc/Null</wornGraphicPath>

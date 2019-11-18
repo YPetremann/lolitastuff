@@ -7,7 +7,7 @@
 		<description>A Gothic and Lolita style dress.</description>
 		<!-- Graphic -->
 		<graphicData>
-			<texPath>Apparel/Lolita/Dress</texPath>
+			<texPath>Apparel/Lolita/Dress_Icon</texPath>
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>Apparel/Lolita/Dress</wornGraphicPath>

@@ -7,7 +7,7 @@
 		<description>A Simple and small hat.</description>
 		<!-- Graphic -->
 		<graphicData>
-			<texPath>Apparel/Mini/Hat</texPath>
+			<texPath>Apparel/Mini/Hat_Icon</texPath>
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>Apparel/Mini/Hat</wornGraphicPath>

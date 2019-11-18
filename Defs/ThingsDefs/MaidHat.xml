@@ -7,7 +7,7 @@
 		<description>hair ban for maid.</description>
 		<!-- Graphic -->
 		<graphicData>
-			<texPath>Apparel/Maid/Hat</texPath>
+			<texPath>Apparel/Maid/Hat_Icon</texPath>
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>Apparel/Maid/Hat</wornGraphicPath>

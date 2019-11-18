@@ -7,7 +7,7 @@
 		<description>nun’s habi</description>
 		<!-- Graphic -->
 		<graphicData>
-			<texPath>Apparel/Nuns/Dress</texPath>
+			<texPath>Apparel/Nuns/Dress_Icon</texPath>
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>Apparel/Nuns/Dress</wornGraphicPath>

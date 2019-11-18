@@ -7,7 +7,7 @@
 		<description>A basic blouse.</description>
 		<!-- Graphic -->
 		<graphicData>
-			<texPath>Apparel/Blouse/Blouse</texPath>
+			<texPath>Apparel/Blouse/Blouse_Icon</texPath>
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>Apparel/Blouse/Blouse</wornGraphicPath>

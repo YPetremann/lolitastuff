@@ -7,7 +7,7 @@
 		<description>Ribon hat.</description>
 		<!-- Graphic -->
 		<graphicData>
-			<texPath>Apparel/Ribbon/Hat</texPath>
+			<texPath>Apparel/Ribbon/Hat_Icon</texPath>
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>Apparel/Ribbon/Hat</wornGraphicPath>

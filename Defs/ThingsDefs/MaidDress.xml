@@ -7,7 +7,7 @@
 		<description>Uniform for maid.</description>
 		<!-- Graphic -->
 		<graphicData>
-			<texPath>Apparel/Maid/Dress</texPath>
+			<texPath>Apparel/Maid/Dress_Icon</texPath>
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>Apparel/Maid/Dress</wornGraphicPath>
