@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>thaui.LolitaStuff</identifier>
+  <version>0.0.4</version>
+  <targetVersions>
+    <li>1.0.0</li>
+  </targetVersions>
+  <dependencies>
+		<li>FactionColors</li>
+	</dependencies>
+	<incompatibleWith>
+  </incompatibleWith>
+  <loadBefore>
+  </loadBefore>
+  <loadAfter>
+		<li>FactionColors</li>
+		<li>Hospitality</li>
+		<li>ColonyManager</li>
+  </loadAfter>
+	<suggests>
+		<li>753498552</li>
+		<li>715565262</li>
+	</suggests>
+</Manifest>
