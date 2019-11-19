@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RecruitRelationshipDamage.label>勧誘時の友好損失</RecruitRelationshipDamage.label>
+  <RecruitRelationshipDamage.description>この人物の勧誘に成功した際に所属派閥との友好関係に与えられるペナルティ</RecruitRelationshipDamage.description>
+
+  <RecruitEffectivity.label>勧誘効果係数</RecruitEffectivity.label>
+  <RecruitEffectivity.description>コロニーに参加するように訪問者を勧誘しようとする際の効果係数</RecruitEffectivity.description>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Concepts taught through the learning readout, with no opportunity needed -->
+
+  <Hospitality.label>ホスピタリティ</Hospitality.label>
+  <Hospitality.helpText>訪問客たちの集団が到着すると、彼らはあなたの娯楽施設を利用したり来客用ベッドで宿泊したり、許可されたエリア内でアイテムを購入したりします。</Hospitality.helpText>
+
+</LanguageData>
