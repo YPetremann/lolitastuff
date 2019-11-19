@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<StatDef>
+		<defName>ManagingSpeedPatch</defName>
+		<label>&lt;color=grey&gt;managing speed&lt;/color&gt;</label>
+		<description>&lt;color=orange&gt;Please install &lt;color=white&gt;&lt;b&gt;Colony Manager&lt;/b&gt;&lt;/color&gt; mod to use this feature.&lt;/color&gt;
+
+A multiplier on the speed at which this person manages.</description>
+		<category>PawnWork</category>
+		<defaultBaseValue>1</defaultBaseValue>
+		<toStringStyle>PercentZero</toStringStyle>
+	</StatDef>
+</Defs>
