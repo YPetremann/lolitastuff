@@ -1,0 +1,2189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   ns:dc="http://purl.org/dc/elements/1.1/"
+   version="1.1"
+   id="svg2"
+   width="1536"
+   height="2304"
+   viewBox="0 0 1536 2303.9998"
+   sodipodi:docname="Dress.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   style="enable-background:new">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2631">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0"
+         id="stop2627" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1"
+         offset="1"
+         id="stop2629" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="2560-b">
+      <stop
+         style="stop-color:#c3c4c3;stop-opacity:1;"
+         offset="0"
+         id="stop2556" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop2558" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect1315"
+       is_visible="true"
+       pattern="m -896,640 c 64,-64 0,-64 64,0 64,64 0,64 64,0 64,-64 0,-64 64,0 64,64 0,64 64,0 64,-64 0,-64 64,0 64,64 0,64 64,0 64,-64 0,-64 64,0 64,64 0,64 64,0 64,-64 0,-64 64,0"
+       copytype="repeated_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="1.3"
+       normal_offset="1.2"
+       tang_offset="1.3"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect1311"
+       is_visible="true"
+       pattern="M 0,0 H 1"
+       copytype="single_stretched"
+       prop_scale="-1000000"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <filter
+       id="RedFilter"
+       inkscape:label="RedFilter"
+       style="color-interpolation-filters:sRGB"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         id="feColorMatrix1564"
+         values="-1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 " />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter2238"
+       inkscape:label="body"
+       x="0"
+       y="0"
+       height="1"
+       width="1">
+      <feFlood
+         id="feFlood2246"
+         flood-color="rgb(242,204,193)"
+         in="FillPaint"
+         result="result2" />
+      <feComposite
+         in2="SourceGraphic"
+         id="feComposite2244"
+         operator="in"
+         k1="1"
+         k2="1"
+         k3="1"
+         k4="0"
+         result="result1"
+         in="result2" />
+      <feBlend
+         mode="color"
+         in2="SourceGraphic"
+         id="feBlend2248" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter2641"
+       inkscape:label="technicolor"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 "
+         type="matrix"
+         id="feColorMatrix2672"
+         in="SourceGraphic"
+         result="result8" />
+      <feFlood
+         id="feFlood2674"
+         result="result5"
+         in="SourceGraphic"
+         flood-color="rgb(173,219,227)" />
+      <feComposite
+         id="feComposite2678"
+         result="result2"
+         in2="result8"
+         operator="in" />
+      <feColorMatrix
+         id="feColorMatrix2670"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 "
+         in="SourceGraphic"
+         result="result7" />
+      <feFlood
+         id="feFlood2676"
+         result="result1"
+         in="SourceGraphic"
+         flood-color="rgb(255,244,145)" />
+      <feComposite
+         in2="result7"
+         id="feComposite2680"
+         result="result3"
+         operator="in" />
+      <feMerge
+         id="feMerge2694">
+        <feMergeNode
+           inkscape:collect="always"
+           id="feMergeNode2696"
+           in="result3" />
+        <feMergeNode
+           inkscape:collect="always"
+           id="feMergeNode2698"
+           in="result2" />
+      </feMerge>
+      <feBlend
+         mode="multiply"
+         id="feBlend2682"
+         result="result4"
+         in2="BackgroundImage" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2631"
+       id="linearGradient3188"
+       gradientUnits="userSpaceOnUse"
+       x1="1664"
+       y1="672.42065"
+       x2="1664"
+       y2="654.71375" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2631"
+       id="linearGradient3422"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.59347725,0,0,1.4088101,1948.8776,-880.44469)"
+       x1="125.18981"
+       y1="677.02075"
+       x2="125.4697"
+       y2="668.95337" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2631"
+       id="linearGradient3522"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.59347725,0,0,1.4088101,2099.0174,-291.00673)"
+       x1="129.71449"
+       y1="680.95361"
+       x2="129.71449"
+       y2="673.26862" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#2560-b"
+       id="linearGradient3916"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.59347725,0,0,1.4088101,52.034909,-292.00673)"
+       x1="128"
+       y1="674.0329"
+       x2="149.13976"
+       y2="663.25" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#2560-b"
+       id="linearGradient3924"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.59347725,0,0,1.4088101,308.03491,-289.80235)"
+       x1="128"
+       y1="674.0329"
+       x2="149.13976"
+       y2="663.25" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#2560-b"
+       id="linearGradient3932"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.59347725,0,0,1.4088101,52.034909,-292.00673)"
+       x1="128"
+       y1="674.0329"
+       x2="149.13976"
+       y2="663.25" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     id="namedview4"
+     showgrid="true"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="999.47331"
+     inkscape:cy="511.62016"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     inkscape:snap-bbox="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-global="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2012"
+       spacingx="64"
+       spacingy="64"
+       empspacing="4"
+       color="#3f3fff"
+       opacity="0.25098039"
+       empcolor="#3f3fff"
+       empopacity="0.50196078" />
+    <sodipodi:guide
+       position="117.46811,389.70421"
+       orientation="0,1"
+       id="guide3960"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="128,373.26396"
+       orientation="0,1"
+       id="guide3962"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="106,359.99998"
+       orientation="0,1"
+       id="guide3964"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="108,346.99998"
+       orientation="0,1"
+       id="guide3966"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="146.81958,876.34182"
+       orientation="0,1"
+       id="guide4137"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="100.12252,1680.5854"
+       orientation="0,1"
+       id="guide4167"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     id="labels"
+     style="fill:#ff0000">
+    <text
+       transform="rotate(90)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:6.4000001;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
+       x="195.45703"
+       y="-2161.1074"
+       id="text4767"><tspan
+         sodipodi:role="line"
+         id="tspan2284"
+         x="195.45703"
+         y="-2161.1074">South</tspan><tspan
+         y="-1905.1074"
+         x="195.45703"
+         id="tspan2288"
+         sodipodi:role="line">East</tspan><tspan
+         y="-1649.1074"
+         x="195.45703"
+         id="tspan2280"
+         sodipodi:role="line">North</tspan><tspan
+         y="-1393.1074"
+         x="195.45703"
+         id="tspan2272"
+         sodipodi:role="line">South</tspan><tspan
+         sodipodi:role="line"
+         id="tspan2276"
+         x="195.45703"
+         y="-1137.1074">East</tspan><tspan
+         sodipodi:role="line"
+         id="tspan2292"
+         x="195.45703"
+         y="-881.10742">North</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4757"
+         x="195.45703"
+         y="-625.10742">South</tspan><tspan
+         y="-369.10739"
+         x="195.45703"
+         id="tspan4761"
+         sodipodi:role="line">East</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4765"
+         x="195.45703"
+         y="-113.10739">North</tspan></text>
+    <text
+       id="text1046"
+       y="398.89258"
+       x="-60.386723"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:6.4000001;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan1024"
+         x="-60.386723"
+         y="398.89258">Head</tspan><tspan
+         y="654.89258"
+         x="-60.386723"
+         id="tspan4789"
+         sodipodi:role="line">Heavy</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4777"
+         x="-60.386723"
+         y="910.89258">Hulk</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4769"
+         x="-60.386723"
+         y="1166.8926">Fat</tspan><tspan
+         y="1422.8926"
+         x="-60.386723"
+         id="tspan4751"
+         sodipodi:role="line">Uni</tspan><tspan
+         y="1678.8926"
+         x="-60.386723"
+         id="tspan4781"
+         sodipodi:role="line">Male</tspan><tspan
+         y="1934.8926"
+         x="-60.386723"
+         id="tspan4773"
+         sodipodi:role="line">Female</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4785"
+         x="-60.386723"
+         y="2190.8926">Thin</tspan><tspan
+         y="2446.8926"
+         x="-60.386723"
+         id="tspan1044"
+         sodipodi:role="line">Icon</tspan></text>
+  </g>
+  <g
+     id="floor">
+    <image
+       width="512"
+       height="1365.9446"
+       preserveAspectRatio="none"
+       style="stroke-width:0.47989258;image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Floor.png"
+       id="image1466"
+       x="768"
+       y="1194.0554"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Floor.png" />
+    <image
+       y="1194.0554"
+       x="1024"
+       id="image1677"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Floor.png"
+       style="stroke-width:0.47989258;image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="1365.9446"
+       width="512"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Floor.png" />
+    <image
+       width="512"
+       height="1365.9446"
+       preserveAspectRatio="none"
+       style="stroke-width:0.47989258;image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Floor.png"
+       id="image1679"
+       x="1024"
+       y="256"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Floor.png" />
+    <image
+       y="256"
+       x="768"
+       id="image1681"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Floor.png"
+       style="stroke-width:0.47989258;image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="1365.9446"
+       width="512"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Floor.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Export">
+    <rect
+       id="Thin_northm"
+       x="2048"
+       y="2048"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Thin_eastm"
+       x="1792"
+       y="2048"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Thin_southm"
+       x="1536"
+       y="2048"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Female_northm"
+       x="2048"
+       y="1792"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Female_eastm"
+       x="1792"
+       y="1792"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Female_southm"
+       x="1536"
+       y="1792"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Male_northm"
+       x="2048"
+       y="1536"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Male_eastm"
+       x="1792"
+       y="1536"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Male_southm"
+       x="1536"
+       y="1536"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Uni_northm"
+       x="2048"
+       y="1280"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Uni_eastm"
+       x="1792"
+       y="1280"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Uni_southm"
+       x="1536"
+       y="1280"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Fat_northm"
+       x="2048"
+       y="1024"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Fat_eastm"
+       x="1792"
+       y="1024"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Fat_southm"
+       x="1536"
+       y="1024"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Hulk_northm"
+       x="2048"
+       y="768"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Hulk_eastm"
+       x="1792"
+       y="768"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Hulk_southm"
+       x="1536"
+       y="768"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Heavy_northm"
+       x="2048"
+       y="512"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Heavy_eastm"
+       x="1792"
+       y="512"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Heavy_southm"
+       x="1536"
+       y="512"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Hat_northm"
+       x="2048"
+       y="256"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Hat_eastm"
+       x="1792"
+       y="256"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Hat_southm"
+       x="1536"
+       y="256"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Icon_m"
+       x="2048"
+       y="2304"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       id="Thin_north"
+       x="512"
+       y="2048"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Thin_east"
+       x="256"
+       y="2048"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Thin_south"
+       x="0"
+       y="2048"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Female_north"
+       x="512"
+       y="1792"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Female_east"
+       x="256"
+       y="1792"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Female_south"
+       x="0"
+       y="1792"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Male_north"
+       x="512"
+       y="1536"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Male_east"
+       x="256"
+       y="1536"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Male_south"
+       x="0"
+       y="1536"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Uni_north"
+       x="512"
+       y="1280"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Uni_east"
+       x="256"
+       y="1280"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Uni_south"
+       x="0"
+       y="1280"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Fat_north"
+       x="512"
+       y="1024"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Fat_east"
+       x="256"
+       y="1024"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Fat_south"
+       x="0"
+       y="1024"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Hulk_north"
+       x="512"
+       y="768"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Hulk_east"
+       x="256"
+       y="768"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Hulk_south"
+       x="0"
+       y="768"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Heavy_north"
+       x="512"
+       y="512"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Heavy_east"
+       x="256"
+       y="512"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Heavy_south"
+       x="0"
+       y="512"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Hat_north"
+       x="512"
+       y="256"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Hat_east"
+       x="256"
+       y="256"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Hat_south"
+       x="0"
+       y="256"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <rect
+       id="Icon"
+       x="512"
+       y="2304"
+       width="256"
+       height="256"
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.01000001;stroke:none" />
+    <path
+       style="fill:none;stroke:#ffafdf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 624.2869,1923.4882 15.7131,-1.591 14.16216,2.3865"
+       id="path3976"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4069"
+       d="m 111.2869,1923.3795 15.7131,-1.591 14.16216,2.3865"
+       style="fill:none;stroke:#ffafdf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#ffafdf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 112.10648,1407.7375 15.7131,-1.591 14.16216,2.3865"
+       id="path4111"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4141"
+       d="m 111.7869,646.8957 15.7131,-1.591 14.16216,2.3865"
+       style="fill:none;stroke:#ffafdf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Fond"
+     style="display:inline">
+    <rect
+       id="rect2664"
+       x="768"
+       y="2304"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1" />
+    <rect
+       id="rect2637"
+       x="768"
+       y="2304"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1;filter:url(#filter2641)" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+       height="256"
+       width="256"
+       y="2304"
+       x="1024"
+       id="rect2666" />
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1"
+       height="256"
+       width="256"
+       y="2304"
+       x="1536"
+       id="rect2296" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Female_Average_Wide_south.tex.png"
+       y="320"
+       x="576"
+       id="image1365"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Female_Average_Wide_south.tex.png"
+       style="stroke-width:0.31999999;image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Fat_east.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Fat_east.tex.png"
+       id="image121"
+       x="320"
+       y="1088"
+       width="128"
+       height="128"
+       style="image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Fat_north.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Fat_north.tex.png"
+       id="image123"
+       x="64"
+       y="1088"
+       width="128"
+       height="128"
+       style="image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Fat_south.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Fat_south.tex.png"
+       id="image125"
+       x="576"
+       y="1088"
+       width="128"
+       height="128"
+       style="image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Female_east.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Female_east.tex.png"
+       id="image127"
+       x="320"
+       y="1856"
+       width="128"
+       height="128"
+       style="image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Female_north.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Female_north.tex.png"
+       id="image129"
+       x="64"
+       y="1856"
+       width="128"
+       height="128"
+       style="image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Female_south.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Female_south.tex.png"
+       id="image131"
+       x="576"
+       y="1856"
+       width="128"
+       height="128"
+       style="image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Hulk_east.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Hulk_east.tex.png"
+       id="image133"
+       x="320"
+       y="832"
+       width="128"
+       height="128"
+       style="image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Hulk_north.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Hulk_north.tex.png"
+       id="image135"
+       x="64"
+       y="832"
+       width="128"
+       height="128"
+       style="image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Hulk_south.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Hulk_south.tex.png"
+       id="image137"
+       x="576"
+       y="832"
+       width="128"
+       height="128"
+       style="image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Male_east.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Male_east.tex.png"
+       id="image139"
+       x="320"
+       y="1600"
+       width="128"
+       height="128"
+       style="image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Male_north.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Male_north.tex.png"
+       id="image141"
+       x="64"
+       y="1600"
+       width="128"
+       height="128"
+       style="image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Male_south.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Male_south.tex.png"
+       id="image143"
+       x="576"
+       y="1600"
+       width="128"
+       height="128"
+       style="image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Thin_east.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Thin_east.tex.png"
+       id="image145"
+       x="320"
+       y="2112"
+       width="128"
+       height="128"
+       style="image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Thin_north.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Thin_north.tex.png"
+       id="image147"
+       x="64"
+       y="2112"
+       width="128"
+       height="128"
+       style="image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Thin_south.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Thin_south.tex.png"
+       id="image149"
+       x="576"
+       y="2112"
+       width="128"
+       height="128"
+       style="image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Fat_east.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Fat_east.tex.png"
+       id="image163"
+       x="1856"
+       y="1088"
+       width="128"
+       height="128"
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Fat_north.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Fat_north.tex.png"
+       id="image165"
+       x="1600"
+       y="1088"
+       width="128"
+       height="128"
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Fat_south.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Fat_south.tex.png"
+       id="image167"
+       x="2112"
+       y="1088"
+       width="128"
+       height="128"
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Female_east.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Female_east.tex.png"
+       id="image169"
+       x="1856"
+       y="1856"
+       width="128"
+       height="128"
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Female_north.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Female_north.tex.png"
+       id="image171"
+       x="1600"
+       y="1856"
+       width="128"
+       height="128"
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Female_south.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Female_south.tex.png"
+       id="image173"
+       x="2112"
+       y="1856"
+       width="128"
+       height="128"
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Hulk_east.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Hulk_east.tex.png"
+       id="image175"
+       x="1856"
+       y="832"
+       width="128"
+       height="128"
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Hulk_south.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Hulk_south.tex.png"
+       id="image177"
+       x="2112"
+       y="832"
+       width="128"
+       height="128"
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Male_east.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Male_east.tex.png"
+       id="image179"
+       x="1856"
+       y="1600"
+       width="128"
+       height="128"
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Male_north.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Male_north.tex.png"
+       id="image181"
+       x="1600"
+       y="1600"
+       width="128"
+       height="128"
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Male_south.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Male_south.tex.png"
+       id="image183"
+       x="2112"
+       y="1600"
+       width="128"
+       height="128"
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Thin_east.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Thin_east.tex.png"
+       id="image185"
+       x="1856"
+       y="2112"
+       width="128"
+       height="128"
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Thin_north.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Thin_north.tex.png"
+       id="image187"
+       x="1600"
+       y="2112"
+       width="128"
+       height="128"
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Thin_south.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Thin_south.tex.png"
+       id="image189"
+       x="2112"
+       y="2112"
+       width="128"
+       height="128"
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+    <image
+       style="stroke-width:0.32000005;filter:url(#RedFilter);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="576"
+       x="1856"
+       id="image191"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Heavy_east.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Heavy_east.tex.png" />
+    <image
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="576"
+       x="1600"
+       id="image198"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Heavy_north.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Heavy_north.tex.png" />
+    <image
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="576"
+       x="2112"
+       id="image201"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Heavy_south.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Heavy_south.tex.png" />
+    <image
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="1344"
+       x="1856"
+       id="image206"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Uni_east.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Uni_east.tex.png" />
+    <image
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="1344"
+       x="1600"
+       id="image211"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Uni_north.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Uni_north.tex.png" />
+    <image
+       style="stroke-width:0.32000005;filter:url(#RedFilter);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="1344"
+       x="2112"
+       id="image216"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Uni_south.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Uni_south.tex.png" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Hulk_north.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Hulk_north.tex.png"
+       id="image221"
+       x="576"
+       y="2368"
+       width="128"
+       height="128"
+       style="image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Hulk_north.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Hulk_north.tex.png"
+       id="image223"
+       x="1600"
+       y="832"
+       width="128"
+       height="128"
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Female_Average_Wide_east.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Female_Average_Wide_east.tex.png"
+       id="image231"
+       x="1856"
+       y="320"
+       style="stroke-width:0.85333347;filter:url(#RedFilter);image-rendering:optimizeSpeed"
+       height="128"
+       width="128" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Female_Average_Wide_south.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Female_Average_Wide_south.tex.png"
+       id="image233"
+       x="2112"
+       y="320"
+       width="82"
+       height="82"
+       style="stroke-width:0.85416687;filter:url(#RedFilter);image-rendering:optimizeSpeed"
+       transform="matrix(1.5609756,0,0,1.5609756,-1184.7805,-179.5122)" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Female_Average_Wide_north.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Female_Average_Wide_north.tex.png"
+       id="image235"
+       x="1600"
+       y="320"
+       width="128"
+       height="128"
+       style="stroke-width:0.85333347;filter:url(#RedFilter);image-rendering:optimizeSpeed" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Hulk_north.tex.png"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Hulk_north.tex.png"
+       style="filter:url(#RedFilter);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="2368"
+       x="2112"
+       id="image240" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Naked_Heavy_east.tex.png"
+       y="576"
+       x="320"
+       id="image1535"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Naked_Heavy_east.tex.png"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Naked_Heavy_north.tex.png"
+       y="576"
+       x="64"
+       id="image1546"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Naked_Heavy_north.tex.png"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Naked_Heavy_south.tex.png"
+       y="576"
+       x="576"
+       id="image1557"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Naked_Heavy_south.tex.png"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="stroke-width:0.31999999;image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Female_Average_Wide_east.tex.png"
+       id="image2268"
+       x="320"
+       y="320"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Female_Average_Wide_east.tex.png" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Female_Average_Wide_north.tex.png"
+       y="320"
+       x="64"
+       id="image2270"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Female_Average_Wide_north.tex.png"
+       style="stroke-width:0.31999999;image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Naked_Uni_south.tex.png"
+       y="1344"
+       x="576.00006"
+       id="image1524"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Naked_Uni_south.tex.png"
+       style="stroke-width:0.31999999;image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Naked_Uni_north.tex.png"
+       y="1343.9999"
+       x="63.999989"
+       id="image1513"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Naked_Uni_north.tex.png"
+       style="stroke-width:0.31999996;image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128.00002"
+       width="128.00002" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Naked_Uni_east.tex.png"
+       y="1344.0001"
+       x="320"
+       id="image1502"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Naked_Uni_east.tex.png"
+       style="stroke-width:0.31999999;image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <rect
+       id="rect2635"
+       x="1792"
+       y="2304"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1" />
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1;filter:url(#filter2641)"
+       height="256"
+       width="256"
+       y="2304"
+       x="1024"
+       id="rect2639" />
+    <path
+       sodipodi:nodetypes="csaacacaasccc"
+       inkscape:connector-curvature="0"
+       id="path3968"
+       d="m 654.89265,1914.578 c 0.61819,1.9066 1.07413,3.8373 1.10735,5.8308 0.0687,4.1225 -3.58167,7.9181 -3,12 0.6533,4.5845 5.9639,7.4866 7,12 0.97241,4.236 1.39415,9.3728 -1,13 -10.34956,-2.9519 -12.81672,2.6082 -19.31177,2.5939 -6.28911,-0.014 -10.73067,-5.7011 -18.68823,-2.5939 -3.1404,-4.671 -2.81817,-8.6927 -2,-13 0.86417,-4.5495 6.3467,-7.4155 7,-12 0.58167,-4.0819 -3.20205,-7.8818 -3,-12 0.0994,-2.0254 0.70012,-3.9478 1.47944,-5.8355 6.59382,-0.9987 8.88426,-0.2775 15.52056,3.6341 5.78382,-4.6961 8.56485,-4.6674 14.89265,-3.6294 z"
+       style="fill:#ffeff9;fill-opacity:1;stroke:#fcb3de;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:none;stroke:#ffafd9;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+       d="m 623,1920.4088 c 3.41005,10.3272 15.74548,3.93 17,1.4884 1.65262,2.9171 11.44021,7.6311 16.30493,0.2052"
+       id="path3978"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#fe7dbd;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+       d="m 638.26531,1924.0207 c -0.11276,-1.6604 0.47183,-2.6679 1.73469,-4.0207 1.36209,-1.4887 3.55582,-1.3479 3.56828,0 0.0125,1.3479 -1.36338,1.4009 -3.56828,0 -1.83789,-1.1677 -3.9356,-1.7097 -3.77548,0 0.15535,1.6588 2.2757,0.8912 3.77548,0 1.0943,1.3282 1.80357,2.4911 1.92792,3.8467"
+       id="path4010"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsscc" />
+    <path
+       style="fill:#ffeff9;fill-opacity:1;stroke:#fcb3de;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 140.83015,1912.4068 c 0.61819,1.9066 2.13663,5.8998 2.16985,7.8933 0.0687,4.1225 -3.58167,7.9181 -3,12 0.6533,4.5845 5.9639,7.4866 7,12 0.97241,4.236 1.39415,9.3728 -1,13 -10.34956,-2.9519 -12.81672,2.6082 -19.31177,2.5939 -6.28911,-0.014 -10.73067,-5.7011 -18.68823,-2.5939 -3.1404,-4.671 -2.81817,-8.6927 -2,-13 0.86417,-4.5495 6.3467,-7.4155 7,-12 0.58167,-4.0819 -3.20205,-7.8818 -3,-12 0.0994,-2.0254 1.26262,-5.6978 2.04194,-7.5855 5.42618,1.5812 9.88426,2.5812 15.08306,2.5812 6.59632,0 8.81485,-1 13.70515,-2.889 z"
+       id="path4071"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csaacacaasccc" />
+    <path
+       sodipodi:nodetypes="cssacacassccc"
+       inkscape:connector-curvature="0"
+       id="path4113"
+       d="m 150.64973,1396.7648 c 0.61819,1.9066 1.11729,5.9002 1.16985,7.8933 0.36804,13.957 -4.82184,15.0998 -5,23 -0.0547,2.4261 1.92766,4.5744 2,7 0.0916,3.0718 0.39415,5.3728 -2,9 -10.34956,-2.9519 -12.87147,0.5873 -19.31177,0.5939 -6.89891,0.01 -12.73067,-3.7011 -20.68823,-0.5939 -3.1404,-4.671 -2.15631,-5.2557 -2,-8 0.16195,-2.8434 2.81896,-5.1578 3,-8 0.45974,-7.2176 -4.29044,-8.894 -4,-23 0.0417,-2.0274 0.26262,-5.6978 1.04194,-7.5855 5.42618,1.5812 17.88426,2.5812 23.08306,2.5812 6.59632,0 17.81485,-1 22.70515,-2.889 z"
+       style="fill:#ffeff9;fill-opacity:1;stroke:#fcb3de;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:#ffeff9;fill-opacity:1;stroke:#fcb3de;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 155.63345,623.41453 c 2.29757,2.26015 5.69899,6.59107 7.18026,10.59066 1.59467,4.30582 1.73945,5.78591 1.56129,13.68611 -0.0547,2.4261 2.59655,16.25531 -0.75,23.25 -3.06036,6.39652 -11.85585,13.2478 -16.125,13.875 -10.34956,-2.9519 -12.8715,0.61447 -19.31177,0.5939 -7.2969,-0.0233 -13.91817,-3.91985 -21.87573,-0.81265 -7.3279,-2.51475 -12.383894,-8.77974 -15,-15.46875 -2.800914,-7.16154 0.63146,-19.2203 0.5625,-23.0625 -0.129783,-7.23106 -0.160311,-8.57013 1.283563,-12.50305 1.413952,-3.85142 4.151708,-8.34945 6.963957,-10.14876 4.98424,4.32124 22.30368,7.39751 27.50248,7.39751 6.59632,0 22.67621,-2.85682 28.00845,-7.39747 z"
+       id="path4143"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="casacacasaccc" />
+  </g>
+  <path
+     style="fill:none;stroke:#ffc2e7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 633.32461,1926.2503 c 2.69573,10.4415 -7.36204,16.3366 -3.29247,30.7497"
+     id="path3972"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <g
+     id="body">
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="stroke-width:0.31999999;filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Naked_Uni_south.tex.png"
+       id="image1562"
+       x="1344.0001"
+       y="1344"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Naked_Uni_south.tex.png" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="stroke-width:0.31999999;filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Naked_Uni_east.tex.png"
+       id="image1560"
+       x="1088"
+       y="1344.0002"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Naked_Uni_east.tex.png" />
+    <image
+       width="128.00002"
+       height="128.00002"
+       preserveAspectRatio="none"
+       style="stroke-width:0.31999996;filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Naked_Uni_north.tex.png"
+       id="image1588"
+       x="832"
+       y="1343.9999"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Naked_Uni_north.tex.png" />
+    <image
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="1088"
+       x="1088"
+       id="image1564"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Fat_east.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Fat_east.tex.png" />
+    <image
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="1088"
+       x="1344"
+       id="image1566"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Fat_south.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Fat_south.tex.png" />
+    <image
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="1856"
+       x="1088"
+       id="image1568"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Female_east.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Female_east.tex.png" />
+    <image
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="1856"
+       x="1344"
+       id="image1570"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Female_south.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Female_south.tex.png" />
+    <image
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="832"
+       x="1088"
+       id="image1572"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Hulk_east.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Hulk_east.tex.png" />
+    <image
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="832"
+       x="1344"
+       id="image1574"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Hulk_south.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Hulk_south.tex.png" />
+    <image
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="1600"
+       x="1088"
+       id="image1576"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Male_east.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Male_east.tex.png" />
+    <image
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="1600"
+       x="1344"
+       id="image1578"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Male_south.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Male_south.tex.png" />
+    <image
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="2112"
+       x="1088"
+       id="image1580"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Thin_east.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Thin_east.tex.png" />
+    <image
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="2112"
+       x="1344"
+       id="image1582"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Thin_south.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Thin_south.tex.png" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="fill:#df1323;fill-opacity:1;filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Naked_Heavy_east.tex.png"
+       id="image1584"
+       x="1088"
+       y="576"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Naked_Heavy_east.tex.png" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Naked_Heavy_south.tex.png"
+       id="image1586"
+       x="1344"
+       y="576"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Naked_Heavy_south.tex.png" />
+    <image
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="1088"
+       x="832"
+       id="image1590"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Fat_north.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Fat_north.tex.png" />
+    <image
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="1856"
+       x="832"
+       id="image1592"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Female_north.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Female_north.tex.png" />
+    <image
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="832"
+       x="832"
+       id="image1594"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Hulk_north.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Hulk_north.tex.png" />
+    <image
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="1600"
+       x="832"
+       id="image1596"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Male_north.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Male_north.tex.png" />
+    <image
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       height="128"
+       width="128"
+       y="2112"
+       x="832"
+       id="image1598"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Misc/../Naked/Naked_Thin_north.tex.png"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Misc\..\Naked\Naked_Thin_north.tex.png" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Naked_Heavy_north.tex.png"
+       id="image1600"
+       x="832"
+       y="576"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Naked_Heavy_north.tex.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Design" />
+  <g
+     id="g2650">
+    <rect
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient3188);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2590"
+       width="75.965088"
+       height="90.163849"
+       x="1626.0175"
+       y="609.63177"
+       rx="37.982544"
+       ry="9.8994837" />
+  </g>
+  <g
+     id="g2653">
+    <rect
+       transform="rotate(17.045786)"
+       ry="9.8994837"
+       rx="37.982544"
+       y="21.193838"
+       x="1986.8601"
+       height="90.163849"
+       width="75.965088"
+       id="rect2596"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient3422);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+  <g
+     id="g2656">
+    <rect
+       ry="9.8994837"
+       rx="37.982544"
+       y="610.63177"
+       x="2137"
+       height="90.163849"
+       width="75.965088"
+       id="rect2602"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient3522);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+  <g
+     id="use2643"
+     transform="translate(768)">
+    <rect
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient3916);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3910"
+       width="75.965088"
+       height="90.163849"
+       x="90.017456"
+       y="609.63177"
+       rx="37.982544"
+       ry="9.8994837" />
+    <rect
+       ry="9.8994827"
+       rx="37.982544"
+       y="609.63177"
+       x="90.017456"
+       height="15.740859"
+       width="75.965088"
+       id="rect3912"
+       style="opacity:1;vector-effect:none;fill:#fffffe;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+  <g
+     transform="rotate(17.045786,766.23223,3207.5219)"
+     id="use2645">
+    <rect
+       ry="9.8994837"
+       rx="37.982544"
+       y="611.83618"
+       x="346.01746"
+       height="90.163849"
+       width="75.965088"
+       id="rect3918"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient3924);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#fffffe;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3920"
+       width="75.965088"
+       height="15.740859"
+       x="346.01746"
+       y="611.83618"
+       rx="37.982544"
+       ry="9.8994827" />
+  </g>
+  <g
+     transform="translate(1278.9825,1)"
+     id="use2647">
+    <rect
+       ry="9.8994837"
+       rx="37.982544"
+       y="609.63177"
+       x="90.017456"
+       height="90.163849"
+       width="75.965088"
+       id="rect3926"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient3932);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#fffffe;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3928"
+       width="75.965088"
+       height="15.740859"
+       x="90.017456"
+       y="609.63177"
+       rx="37.982544"
+       ry="9.8994827" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g2650"
+     id="use2658"
+     width="100%"
+     height="100%"
+     transform="translate(-768)"
+     style="filter:url(#filter2641)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g2653"
+     id="use2660"
+     width="100%"
+     height="100%"
+     transform="translate(-768)"
+     style="filter:url(#filter2641)" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#g2656"
+     id="use2662"
+     width="100%"
+     height="100%"
+     transform="translate(-768)"
+     style="filter:url(#filter2641);fill:#ff0000" />
+  <g
+     id="heads">
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_east.tex.png"
+       y="548"
+       x="1096"
+       id="image1610"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_east.tex.png"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_north.tex.png"
+       y="548"
+       x="832"
+       id="image1621"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_north.tex.png"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_south.tex.png"
+       y="548"
+       x="1344"
+       id="image1632"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_south.tex.png"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_east.tex.png"
+       id="image1635"
+       x="1096"
+       y="802"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_east.tex.png" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_north.tex.png"
+       id="image1637"
+       x="832"
+       y="802"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_north.tex.png" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_south.tex.png"
+       id="image1639"
+       x="1344"
+       y="802"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_south.tex.png" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_east.tex.png"
+       y="1058"
+       x="1096"
+       id="image1641"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_east.tex.png"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_north.tex.png"
+       y="1058"
+       x="832"
+       id="image1643"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_north.tex.png"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_south.tex.png"
+       y="1058"
+       x="1344"
+       id="image1645"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_south.tex.png"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_east.tex.png"
+       id="image1647"
+       x="1096"
+       y="1316"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_east.tex.png" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_north.tex.png"
+       id="image1649"
+       x="832"
+       y="1316"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_north.tex.png" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_south.tex.png"
+       id="image1651"
+       x="1344"
+       y="1316"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_south.tex.png" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_east.tex.png"
+       y="1572"
+       x="1096"
+       id="image1653"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_east.tex.png"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_north.tex.png"
+       y="1572"
+       x="832"
+       id="image1655"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_north.tex.png"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_south.tex.png"
+       y="1572"
+       x="1344"
+       id="image1657"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_south.tex.png"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_east.tex.png"
+       id="image1659"
+       x="1096"
+       y="1824"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_east.tex.png" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_north.tex.png"
+       id="image1661"
+       x="832"
+       y="1824"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_north.tex.png" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_south.tex.png"
+       id="image1663"
+       x="1344"
+       y="1824"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_south.tex.png" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_east.tex.png"
+       y="2078"
+       x="1096"
+       id="image1665"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_east.tex.png"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_north.tex.png"
+       y="2078"
+       x="832"
+       id="image1667"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_north.tex.png"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_south.tex.png"
+       y="2078"
+       x="1344"
+       id="image1669"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_south.tex.png"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="128"
+       width="128" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_north.tex.png"
+       id="image2262"
+       x="832"
+       y="320"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_north.tex.png" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_east.tex.png"
+       id="image2264"
+       x="1088"
+       y="320"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_east.tex.png" />
+    <image
+       width="128"
+       height="128"
+       preserveAspectRatio="none"
+       style="filter:url(#filter2238);image-rendering:optimizeSpeed"
+       xlink:href="file:///D:/SteamLibrary2/steamapps/common/RimWorld/Mods/Lolita%20Stuff/Textures/Apparel/Naked/Female_Average_Wide_south.tex.png"
+       id="image2266"
+       x="1344"
+       y="320"
+       sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Naked\Female_Average_Wide_south.tex.png" />
+  </g>
+  <image
+     sodipodi:absref="D:\SteamLibrary2\steamapps\common\RimWorld\Mods\Lolita Stuff\Textures\Apparel\Corset\CorsetRose.png"
+     xlink:href="CorsetRose.png"
+     width="76.393196"
+     height="90.626152"
+     preserveAspectRatio="none"
+     style="stroke-width:3.44271541;image-rendering:optimizeSpeed"
+     id="image3953"
+     x="655.31964"
+     y="1885.423" />
+  <path
+     style="fill:none;stroke:#ffc3e5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 647.06899,1926.3829 c -3.29011,14.8676 7.90509,17.8867 3.64603,29.588"
+     id="path3970"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;stroke:#fec1e3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 640,1922.5925 v 36.5162"
+     id="path3974"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path4027"
+     d="m 633.32461,1926.2503 c -4.28695,-1.2258 -5.50588,-5.72 -3.38086,-10.3635"
+     style="fill:none;stroke:#ffc2e7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#ffc2e7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 646.68929,1925.7941 c 4.28695,-1.2258 5.50588,-5.72 3.38086,-10.3635"
+     id="path4029"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="csc"
+     inkscape:connector-curvature="0"
+     id="path4077"
+     d="m 118.73086,1915.9228 c -2.30215,4.3444 -0.48,7.9319 1.30697,11.2965 4.81844,9.0724 -6.99135,15.5561 -3.00569,29.672"
+     style="fill:none;stroke:#ffc2e7;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     sodipodi:nodetypes="csc"
+     inkscape:connector-curvature="0"
+     id="path4079"
+     d="m 134.00714,1916.1512 c 2.84324,3.8488 0.80754,7.6676 -0.12317,11.0262 -3.82935,13.8188 8.00244,17.2244 3.83105,28.6848"
+     style="fill:none;stroke:#ffc3e5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path4081"
+     d="M 127,1916.4838 V 1959"
+     style="fill:none;stroke:#fec1e3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path4087"
+     d="m 124.42703,1921.0518 c 1.28516,11.5981 -2.07917,22.131 -0.48328,34.3691"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000001, 3;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     id="path4089"
+     d="m 129.99492,1953.6427 -6.08836,0.022"
+     style="fill:none;stroke:#fd6bb5;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000001, 3;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 129.60343,1921.0518 c -1.29167,11.6567 2.11336,22.2376 0.45865,34.5552"
+     id="path4091"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#fd6bb5;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 129.31214,1921.7032 -4.58133,-0.1148"
+     id="path4099"
+     sodipodi:nodetypes="cc" />
+  <path
+     id="path4093"
+     d="m 129.31214,1921.7032 -4.26344,3.8777 3.90987,3.9953 -4.26185,4.0004 4.88843,4.0538 -5.39955,3.8542 6.03186,3.8713 -6.37782,4.0053 6.15528,3.9895"
+     style="fill:none;stroke:#fd7fbf;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#fe92c9;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 141.16568,1931.5414 c -7.61946,1.33 -21.01443,1.282 -29.33133,0.035"
+     id="path4109"
+     sodipodi:nodetypes="cc" />
+  <path
+     id="path4095"
+     d="m 123.90656,1953.3757 6.22157,-4.0647 -6.22314,-3.9802 6.18654,-3.8463 -5.68681,-4.0794 4.92347,-3.9208 -4.40738,-3.937 4.17125,-3.9871 -4.36125,-3.9718"
+     style="fill:none;stroke:#fd7fbf;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <path
+     style="display:inline;fill:none;stroke:#fe6ab3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+     d="m 123.51156,1935.6249 c -0.11275,-1.6604 2.35008,-2.7563 3.61294,-4.1091 1.36209,-1.4887 3.55583,-1.3479 3.56828,0 0.0125,1.3479 -1.36338,1.4009 -3.56828,0 -1.83789,-1.1677 -3.9356,-1.7097 -3.77548,0 0.15535,1.6588 2.27571,0.8912 3.77548,0 1.0943,1.3282 3.42772,2.2922 3.40842,3.9682"
+     id="path4097"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccsscc" />
+  <path
+     sodipodi:nodetypes="cc"
+     id="path4107"
+     d="m 654.17902,1931.6688 c -7.61946,1.33 -21.01443,1.282 -29.33133,0.035"
+     style="fill:none;stroke:#fe92c9;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#ffc3e5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 140.39519,1399.8021 c 2.84324,3.8488 -1.82326,19.3392 -3.03999,22.6051 -2.41514,6.4825 4.29013,7.0597 1.26779,18.6969"
+     id="path4117"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csc" />
+  <path
+     style="fill:none;stroke:#fec1e3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 127.81958,1400.8418 v 42.5162"
+     id="path4119"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000001, 3;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 125.24661,1405.4098 c 1.28516,11.5981 -2.07917,22.131 -0.48328,34.3691"
+     id="path4121"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#fd6bb5;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 130.8145,1438.0007 -6.08836,0.022"
+     id="path4123" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path4125"
+     d="m 130.42301,1405.4098 c -1.29167,11.6567 2.11336,22.2376 0.45865,34.5552"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000001, 3;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     sodipodi:nodetypes="cc"
+     id="path4127"
+     d="m 130.13172,1406.0612 -4.58133,-0.1148"
+     style="fill:none;stroke:#fd6bb5;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <path
+     sodipodi:nodetypes="csc"
+     inkscape:connector-curvature="0"
+     id="path4139"
+     d="m 115.18716,1399.9789 c -2.84324,3.8488 1.82326,19.3392 3.03999,22.6051 2.41514,6.4825 -4.29013,7.0597 -1.26779,18.6969"
+     style="fill:none;stroke:#ffc3e5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     sodipodi:nodetypes="cc"
+     id="path4131"
+     d="m 148.10134,1426.1699 c -11.05367,3.6513 -30.00692,3.351 -41.56351,0.035"
+     style="fill:none;stroke:#fe92c9;stroke-width:0.99999988px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#fd7fbf;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 124.72614,1437.7337 6.22157,-4.0647 -6.22314,-3.9802 6.18654,-3.8463 -5.68681,-4.0794 4.92347,-3.9208 -4.40738,-3.937 4.17125,-3.9871 -4.36125,-3.9718"
+     id="path4133" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#fd7fbf;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 130.13172,1406.0612 -4.26344,3.8777 3.90987,3.9953 -4.26185,4.0004 4.88843,4.0537 -5.39955,3.8542 6.03186,3.8713 -6.37782,4.0054 6.15528,3.9894"
+     id="path4129" />
+  <path
+     sodipodi:nodetypes="cccsscc"
+     inkscape:connector-curvature="0"
+     id="path4135"
+     d="m 124.38706,1431.7672 c -0.11275,-1.6604 2.35008,-2.7563 3.61294,-4.1091 1.36209,-1.4887 3.55583,-1.3479 3.56828,0 0.0125,1.3479 -1.36338,1.4009 -3.56828,0 -1.83789,-1.1677 -3.9356,-1.7097 -3.77548,0 0.15535,1.6588 2.27571,0.8912 3.77548,0 1.0943,1.3282 3.42772,2.2922 3.40842,3.9682"
+     style="display:inline;fill:none;stroke:#fe6ab3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new" />
+  <path
+     sodipodi:nodetypes="csc"
+     inkscape:connector-curvature="0"
+     id="path4145"
+     d="m 144.40664,629.42604 c 2.84324,4.9586 2.15422,15.54651 0.93749,19.75414 -2.41514,8.35173 6.765,19.08325 -2.70969,33.45733"
+     style="fill:none;stroke:#ffc3e5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path4147"
+     d="m 127.5,631.95664 v 50.55953"
+     style="fill:none;stroke:#fec1e3;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path4149"
+     d="m 123.76917,635.86352 c 1.78398,14.51966 -2.8862,27.7058 -0.67086,43.02669"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000002, 4.00000001;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     id="path4151"
+     d="m 131.49821,676.66408 -8.45153,0.0275"
+     style="fill:none;stroke:#fd6bb5;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000002, 4;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 130.95477,635.86352 c -1.79304,14.59302 2.93365,27.83926 0.63668,43.25967"
+     id="path4153"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#fd6bb5;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 130.55042,636.679 -6.35957,-0.14371"
+     id="path4155"
+     sodipodi:nodetypes="cc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#fe92c9;stroke-width:0.99999988px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 166.32192,652.82892 c -20.38316,3.6513 -55.33327,3.351 -76.643817,0.035"
+     id="path4159"
+     sodipodi:nodetypes="cc" />
+  <path
+     id="path4161"
+     d="m 123.04668,676.32982 8.63645,-5.0886 -8.63863,-4.98281 8.58782,-4.81519 -7.89412,-5.107 6.8345,-4.90845 -6.1181,-4.92873 5.79031,-4.99146 -6.05406,-4.97229"
+     style="fill:none;stroke:#fd7fbf;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccc" />
+  <path
+     id="path4163"
+     d="m 130.55042,636.679 -5.91828,4.8545 5.42746,5.00172 -5.91606,5.0081 6.78585,5.07483 -7.49537,4.82507 8.37312,4.84648 -8.85336,5.01437 8.54443,4.99433"
+     style="fill:none;stroke:#fd7fbf;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccc" />
+  <path
+     style="display:inline;fill:none;stroke:#fe6ab3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+     d="m 122.66436,659.40281 c -0.1565,-2.07866 3.26227,-3.45062 5.01531,-5.14419 1.89077,-1.8637 4.93602,-1.68743 4.9533,0 0.0173,1.68744 -1.89258,1.75379 -4.9533,0 -2.55127,-1.46184 -5.4632,-2.14037 -5.24093,0 0.21566,2.07666 3.15902,1.1157 5.24093,0 1.51905,1.66278 4.75818,2.86961 4.73139,4.96779"
+     id="path4165"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccsscc" />
+  <path
+     style="fill:none;stroke:#ffc3e5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 111.30222,629.34566 c -2.84324,4.9586 -2.15422,15.54651 -0.93749,19.75414 2.41514,8.35173 -6.765,19.08325 2.70969,33.45733"
+     id="path4169"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csc" />
+</svg>
