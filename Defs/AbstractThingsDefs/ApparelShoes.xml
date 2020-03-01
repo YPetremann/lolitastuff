@@ -14,7 +14,7 @@
 			</defaultOutfitTags>
 		</apparel>
 		<recipeMaker>
-			<workSpeedStat>TailoringSpeed</workSpeedStat>
+			<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
 			<workSkill>Crafting</workSkill>
 			<effectWorking>Tailor</effectWorking>
 			<soundWorking>Recipe_Tailor</soundWorking>

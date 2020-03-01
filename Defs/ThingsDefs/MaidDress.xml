@@ -43,7 +43,6 @@
 			<ButcheryFleshSpeed>0.1</ButcheryFleshSpeed>
 			<CookSpeed>0.1</CookSpeed>
 			<DrugCookingSpeed>0.1</DrugCookingSpeed>
-			<TailoringSpeed>0.1</TailoringSpeed>
 			<GeneralLaborSpeed>0.2</GeneralLaborSpeed>
 		</equippedStatOffsets>
 	</ThingDef>

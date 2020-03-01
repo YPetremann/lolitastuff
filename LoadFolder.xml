@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+	<v1.1>
+		<li>/</li>
+		<li>1.1</li>
+	   <li IfModActive="Ludeon.Rimworld.Royalty">ModRoyalty</li>
+	   <li IfModActive="Ohu.FactionColors">ModFactionColors</li>
+	   <li IfModActive="Orion.Hospitality">ModHospitality</li>
+	   <li IfModActive="fluffy.colonymanager">ModColonyManager</li>
+	</v1.1>
+</loadFolders>

@@ -2,10 +2,30 @@
 <ModMetaData>
 	<name>LolitaStuff</name>
 	<author>Thaui</author>
+   <packageId>Thaui.LolitaStuff</packageId>
 	<supportedVersions>
 		<li>1.0</li>
 		<li>1.1</li>
 	</supportedVersions>
+	<modDependencies>
+		<!--
+		<li>
+			<packageId>Ludeon.Rimworld.Royalty</packageId>
+			<displayName>Royalty (strongly recommended)</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=1682608908</steamWorkshopUrl>
+		</li>
+		-->
+		<li>
+			<packageId>Ohu.FactionColors</packageId>
+			<displayName>FactionColors (strongly recommended)</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=1682608908</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ohu.FactionColors</li>
+		<li>Hospitality</li>
+		<li>fluffy.colonymanager</li>
+   </loadAfter>
 	<description>
 Various Lolita Stuff, Including :
 - 4 Dress &amp; Hats for Lolita, nuns &amp; maids
