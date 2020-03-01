@@ -42,7 +42,7 @@
 			<FoodPoisonChance>0.15</FoodPoisonChance>
 			<TameAnimalChance>0.2</TameAnimalChance>
 			<TrainAnimalChance>0.2</TrainAnimalChance>
-			<SculptingSpeed>0.2</SculptingSpeed>
+			<GeneralLaborSpeed>0.2</GeneralLaborSpeed>
 		</equippedStatOffsets>
 	</ThingDef>
 

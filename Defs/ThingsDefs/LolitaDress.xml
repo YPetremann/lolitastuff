@@ -47,10 +47,7 @@
 			<CookSpeed>-0.7</CookSpeed>
 			<DrugCookingSpeed>-0.7</DrugCookingSpeed>
 			<DrugSynthesisSpeed>-0.7</DrugSynthesisSpeed>
-			<SculptingSpeed>-0.7</SculptingSpeed>
-			<SmeltingSpeed>-0.7</SmeltingSpeed>
-			<SmithingSpeed>-0.7</SmithingSpeed>
-			<UnskilledLaborSpeed>-0.7</UnskilledLaborSpeed>
+			<GeneralLaborSpeed>-0.7</GeneralLaborSpeed>
 			<MentalBreakThreshold>-0.4</MentalBreakThreshold>
 			<RecruitRelationshipDamage>-15</RecruitRelationshipDamage>
 			<TradePriceImprovement>0.1</TradePriceImprovement>

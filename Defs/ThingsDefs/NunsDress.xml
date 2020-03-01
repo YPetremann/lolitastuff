@@ -43,7 +43,7 @@
 			<ButcheryMechanoidSpeed>0.1</ButcheryMechanoidSpeed>
 			<DrugSynthesisSpeed>0.1</DrugSynthesisSpeed>
 			<FoodPoisonChance>0.15</FoodPoisonChance>
-			<SmeltingSpeed>0.2</SmeltingSpeed>
+			<GeneralLaborSpeed>0.2</GeneralLaborSpeed>
 		</equippedStatOffsets>
 	</ThingDef>
 
