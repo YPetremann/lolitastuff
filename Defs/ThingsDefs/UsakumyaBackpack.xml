@@ -30,7 +30,7 @@
 		<statBases>
 			<MaxHitPoints>150</MaxHitPoints>
 			<WorkToMake>15000</WorkToMake>
-			<Mass>0.3</Mass>
+			<Mass>1.0</Mass>
 			<ArmorRating_Sharp>0.05</ArmorRating_Sharp>
 			<Beauty>4</Beauty>
 			<EquipDelay>1</EquipDelay>

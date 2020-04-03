@@ -25,8 +25,8 @@
 		<statBases>
 			<WorkToMake>7200</WorkToMake>
 			<MaxHitPoints>250</MaxHitPoints>
-			<Mass>2.2</Mass>
-			<StuffEffectMultiplierArmor>1.2</StuffEffectMultiplierArmor>
+			<Mass>1.0</Mass>
+			<StuffEffectMultiplierArmor>1.0</StuffEffectMultiplierArmor>
 			<StuffEffectMultiplierInsulation_Cold>0.50</StuffEffectMultiplierInsulation_Cold>
 			<StuffEffectMultiplierInsulation_Heat>1.20</StuffEffectMultiplierInsulation_Heat>
 			<Beauty>16</Beauty>
