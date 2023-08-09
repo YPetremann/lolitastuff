@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-	<ThingDef Name="ApparelMakeableBase" ParentName="ApparelCustomBase" Abstract="True">
-		<recipeMaker>
-			<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-			<workSkill>Crafting</workSkill>
-			<effectWorking>Tailor</effectWorking>
-			<soundWorking>Recipe_Tailor</soundWorking>
-			<recipeUsers>
-				<li>ElectricTailoringBench</li>
-				<li>HandTailoringBench</li>
-			</recipeUsers>
-			<unfinishedThingDef>UnfinishedApparel</unfinishedThingDef>
-			<defaultIngredientFilter>
-				<categories>
-					<li>Root</li>
-				</categories>
-				<disallowedThingDefs>
-					<li>Gold</li>
-					<li>Silver</li>
-					<li>Plasteel</li>
-					<li>Jade</li>
-					<li>Uranium</li>
-				</disallowedThingDefs>
-			</defaultIngredientFilter>
-		</recipeMaker>
-	</ThingDef>
-
+  <ThingDef
+    Name="ApparelMakeableBase"
+    ParentName="ApparelCustomBase"
+    Abstract="True"
+  >
+    <recipeMaker>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Tailor</effectWorking>
+      <soundWorking>Recipe_Tailor</soundWorking>
+      <recipeUsers>
+        <li>ElectricTailoringBench</li>
+        <li>HandTailoringBench</li>
+      </recipeUsers>
+      <unfinishedThingDef>UnfinishedApparel</unfinishedThingDef>
+      <defaultIngredientFilter>
+        <categories>
+          <li>Root</li>
+        </categories>
+        <disallowedThingDefs>
+          <li>Gold</li>
+          <li>Silver</li>
+          <li>Plasteel</li>
+          <li>Jade</li>
+          <li>Uranium</li>
+        </disallowedThingDefs>
+      </defaultIngredientFilter>
+    </recipeMaker>
+  </ThingDef>
 </Defs>

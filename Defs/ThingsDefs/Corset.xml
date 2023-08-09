@@ -1,52 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
+  <ThingDef ParentName="ApparelCorset">
+    <defName>Corset</defName>
+    <label>Corset</label>
+    <description>Corset.</description>
+    <!-- Graphic -->
+    <graphicData>
+      <texPath>Apparel/Corset/Dress_Icon</texPath>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>Royal</li>
+        <li>RoyalTier7</li>
+      </tags>
+      <wornGraphicPath>Apparel/Corset/Dress</wornGraphicPath>
+    </apparel>
+    <!-- Recipe -->
 
-	<ThingDef ParentName="ApparelCorset">
-		<defName>Corset</defName>
-		<label>Corset</label>
-		<description>Corset.</description>
-		<!-- Graphic -->
-		<graphicData>
-			<texPath>Apparel/Corset/Dress_Icon</texPath>
-		</graphicData>
-		<apparel>
-			<wornGraphicPath>Apparel/Corset/Dress</wornGraphicPath>
-		</apparel>
-		<!-- Recipe -->
+    <costList>
+      <Steel>30</Steel>
+    </costList>
 
-		<costList>
-			<Steel>30</Steel>
-		</costList>
+    <costStuffCount>120</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
 
-		<costStuffCount>120</costStuffCount>
-		<stuffCategories>
-			<li>Fabric</li>
-			<li>Leathery</li>
-		</stuffCategories>
-
-		<!-- Stats -->
-		<statBases>
-			<WorkToMake>10800</WorkToMake>
-			<MaxHitPoints>250</MaxHitPoints>
-			<Mass>1.5</Mass>
-			<StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
-			<ArmorRating_Blunt>0.9</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.1</ArmorRating_Heat>
-			<ArmorRating_Sharp>0.42</ArmorRating_Sharp>
-			<StuffEffectMultiplierInsulation_Cold>1.20</StuffEffectMultiplierInsulation_Cold>
-			<StuffEffectMultiplierInsulation_Heat>0.20</StuffEffectMultiplierInsulation_Heat>
-			<Beauty>15</Beauty>
-		</statBases>
-		<equippedStatOffsets>
-			<MentalBreakThreshold>-0.2</MentalBreakThreshold>
-			<AimingDelayFactor>-0.1</AimingDelayFactor>
-			<MeleeDodgeChance>0.1</MeleeDodgeChance>
-			<MeleeHitChance>0.1</MeleeHitChance>
-			<ShootingAccuracyPawn>0.1</ShootingAccuracyPawn>
-			<HungerRateMultiplier>0.1</HungerRateMultiplier>
-			<MiningSpeed>0.1</MiningSpeed>
-			<FoodPoisonChance>0.15</FoodPoisonChance>
-			<CarryingCapacity>5</CarryingCapacity>
-		</equippedStatOffsets>
-	</ThingDef>
+    <!-- Stats -->
+    <statBases>
+      <WorkToMake>10800</WorkToMake>
+      <MaxHitPoints>250</MaxHitPoints>
+      <Mass>1.5</Mass>
+      <StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
+      <ArmorRating_Blunt>0.9</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.1</ArmorRating_Heat>
+      <ArmorRating_Sharp>0.42</ArmorRating_Sharp>
+      <StuffEffectMultiplierInsulation_Cold
+        >1.20</StuffEffectMultiplierInsulation_Cold
+      >
+      <StuffEffectMultiplierInsulation_Heat
+        >0.20</StuffEffectMultiplierInsulation_Heat
+      >
+      <Beauty>15</Beauty>
+    </statBases>
+    <equippedStatOffsets>
+      <MentalBreakThreshold>-0.2</MentalBreakThreshold>
+      <AimingDelayFactor>-0.1</AimingDelayFactor>
+      <MeleeDodgeChance>0.1</MeleeDodgeChance>
+      <MeleeHitChance>0.1</MeleeHitChance>
+      <ShootingAccuracyPawn>0.1</ShootingAccuracyPawn>
+      <!--<HungerRateMultiplier>0.1</HungerRateMultiplier>-->
+      <MiningSpeed>0.1</MiningSpeed>
+      <FoodPoisonChance>0.15</FoodPoisonChance>
+      <CarryingCapacity>5</CarryingCapacity>
+    </equippedStatOffsets>
+  </ThingDef>
 </Defs>

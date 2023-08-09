@@ -1,12 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, ElectricTailoringBench, HandTailoringBench -->
 
   <Make_BasicBlouse.label>ブラウス(普通)を縫う</Make_BasicBlouse.label>
-  <Make_BasicBlouse.description>ブラウス(普通)を縫う。</Make_BasicBlouse.description>
-  <Make_BasicBlouse.jobString>ブラウス(普通)を裁縫中</Make_BasicBlouse.jobString>
-
+  <Make_BasicBlouse.description
+    >ブラウス(普通)を縫う。</Make_BasicBlouse.description
+  >
+  <Make_BasicBlouse.jobString
+    >ブラウス(普通)を裁縫中</Make_BasicBlouse.jobString
+  >
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
 
@@ -14,11 +16,12 @@
   <Make_Corset.description>コルセットを縫う。</Make_Corset.description>
   <Make_Corset.jobString>コルセットを裁縫中</Make_Corset.jobString>
 
-
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, ElectricTailoringBench, HandTailoringBench -->
 
   <Make_LolitaDress.label>ゴスロリ服を縫う</Make_LolitaDress.label>
-  <Make_LolitaDress.description>ゴスロリ服を縫う。</Make_LolitaDress.description>
+  <Make_LolitaDress.description
+    >ゴスロリ服を縫う。</Make_LolitaDress.description
+  >
   <Make_LolitaDress.jobString>ゴスロリ服を裁縫中</Make_LolitaDress.jobString>
 
   <Make_MaidDress.label>メイド服を縫う</Make_MaidDress.label>
@@ -26,7 +29,9 @@
   <Make_MaidDress.jobString>メイド服を裁縫中</Make_MaidDress.jobString>
 
   <Make_MaidHat.label>メイドカチューシャを縫う</Make_MaidHat.label>
-  <Make_MaidHat.description>メイドカチューシャを縫う。</Make_MaidHat.description>
+  <Make_MaidHat.description
+    >メイドカチューシャを縫う。</Make_MaidHat.description
+  >
   <Make_MaidHat.jobString>メイドカチューシャを裁縫中</Make_MaidHat.jobString>
 
   <Make_MiniHat.label>ミニハットを縫う</Make_MiniHat.label>
@@ -42,7 +47,9 @@
   <Make_RibonHat.jobString>リボンハットを裁縫中</Make_RibonHat.jobString>
 
   <Make_RibbonDress.label>リボンドレスを縫う</Make_RibbonDress.label>
-  <Make_RibbonDress.description>リボンドレスを縫う。</Make_RibbonDress.description>
+  <Make_RibbonDress.description
+    >リボンドレスを縫う。</Make_RibbonDress.description
+  >
   <Make_RibbonDress.jobString>リボンドレスを裁縫中</Make_RibbonDress.jobString>
 
   <Make_Shoes.label>シューズを縫う</Make_Shoes.label>
@@ -53,11 +60,15 @@
   <Make_Tights.description>ニーソックスを縫う。</Make_Tights.description>
   <Make_Tights.jobString>ニーソックスを裁縫中</Make_Tights.jobString>
 
-
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
 
-  <Make_UsakumyaBackpack.label>うさくまリュックを縫う</Make_UsakumyaBackpack.label>
-  <Make_UsakumyaBackpack.description>うさくまリュックを縫う。</Make_UsakumyaBackpack.description>
-  <Make_UsakumyaBackpack.jobString>うさくまリュックを裁縫中</Make_UsakumyaBackpack.jobString>
-
+  <Make_UsakumyaBackpack.label
+    >うさくまリュックを縫う</Make_UsakumyaBackpack.label
+  >
+  <Make_UsakumyaBackpack.description
+    >うさくまリュックを縫う。</Make_UsakumyaBackpack.description
+  >
+  <Make_UsakumyaBackpack.jobString
+    >うさくまリュックを裁縫中</Make_UsakumyaBackpack.jobString
+  >
 </LanguageData>

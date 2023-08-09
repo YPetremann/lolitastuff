@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <ManagingSpeed.label>管理速度</ManagingSpeed.label>
-  <ManagingSpeed.description>この人物が管理する速さの係数</ManagingSpeed.description>
-
+  <ManagingSpeed.description
+    >この人物が管理する速さの係数</ManagingSpeed.description
+  >
 </LanguageData>

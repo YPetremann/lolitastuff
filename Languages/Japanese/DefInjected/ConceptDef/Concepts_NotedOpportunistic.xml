@@ -1,15 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Concepts taught through the learning readout, when opportunities arise -->
 
   <GuestBeds.label>来客用ベッド</GuestBeds.label>
-  <GuestBeds.helpText>訪問客たちはベッドで寝ることを好みます。\n\n「来客用」ボタンを押してベッドを来客用ベッドに変更可能です。</GuestBeds.helpText>
+  <GuestBeds.helpText
+    >訪問客たちはベッドで寝ることを好みます。\n\n「来客用」ボタンを押してベッドを来客用ベッドに変更可能です。</GuestBeds.helpText
+  >
 
   <RecruitGuest.label>訪問客を勧誘</RecruitGuest.label>
-  <RecruitGuest.helpText>訪問客を勧誘することができます。\n\n訪問客を勧誘すると訪問客の所属していた派閥との友好関係が失われます。交渉に適した高い社会的スキルを持った入植者がいることを確認しましょう。</RecruitGuest.helpText>
+  <RecruitGuest.helpText
+    >訪問客を勧誘することができます。\n\n訪問客を勧誘すると訪問客の所属していた派閥との友好関係が失われます。交渉に適した高い社会的スキルを持った入植者がいることを確認しましょう。</RecruitGuest.helpText
+  >
 
   <GuestWork.label>訪問客の手伝い</GuestWork.label>
-  <GuestWork.helpText>施設に満足している訪問客たちは、要求されるスキルがあればコロニー内の仕事を手伝ってくれるでしょう。これはModオプションで無効にしたり必要スキルレベルを変更することができます。</GuestWork.helpText>
-
+  <GuestWork.helpText
+    >施設に満足している訪問客たちは、要求されるスキルがあればコロニー内の仕事を手伝ってくれるでしょう。これはModオプションで無効にしたり必要スキルレベルを変更することができます。</GuestWork.helpText
+  >
 </LanguageData>

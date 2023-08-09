@@ -1,51 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-	<ThingDef ParentName="ApparelHat">
-		<defName>MiniHat</defName>
-		<label>Mini Hat</label>
-		<description>A Simple and small hat.</description>
-		<!-- Graphic -->
-		<graphicData>
-			<texPath>Apparel/Mini/Hat_Icon</texPath>
-		</graphicData>
-		<apparel>
-			<wornGraphicPath>Apparel/Mini/Hat</wornGraphicPath>
-		</apparel>
-		<!-- Recipe -->
-		<costStuffCount>50</costStuffCount>
-		<stuffCategories>
-			<li>Fabric</li>
-		</stuffCategories>
-		<costList>
-			<Cloth>50</Cloth>
-			<Silver>15</Silver>
-			<Gold>2</Gold>
-		</costList>
-		<!-- Stats -->
-		<statBases>
-			<WorkToMake>16800</WorkToMake>
-			<MaxHitPoints>120</MaxHitPoints>
-			<Mass>0.2</Mass>
-			<StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
-			<ArmorRating_Blunt>0.072</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.6</ArmorRating_Heat>
-			<ArmorRating_Sharp>0.28</ArmorRating_Sharp>
-			<Insulation_Cold>2</Insulation_Cold>
-			<Insulation_Heat>12</Insulation_Heat>
-			<Beauty>3</Beauty>
-		</statBases>
-		<equippedStatOffsets>
-			<MentalBreakThreshold>-0.1</MentalBreakThreshold>
-			<PsychicSensitivity>-0.1</PsychicSensitivity>
-			<MoveSpeed>-0.05</MoveSpeed>
-			<RecruitRelationshipDamage>-0.05</RecruitRelationshipDamage>
-			<AimingDelayFactor>0.05</AimingDelayFactor>
-			<TradePriceImprovement>0.05</TradePriceImprovement>
-			<RecruitEffectivity>0.05</RecruitEffectivity>
-			<NegotiationAbility>0.15</NegotiationAbility>
-			<SocialImpact>0.15</SocialImpact>
-		</equippedStatOffsets>
-	</ThingDef>
-
+  <ThingDef ParentName="ApparelHat">
+    <defName>MiniHat</defName>
+    <label>Mini Hat</label>
+    <description>A Simple and small hat.</description>
+    <!-- Graphic -->
+    <graphicData>
+      <texPath>Apparel/Mini/Hat_Icon</texPath>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>Royal</li>
+        <li>RoyalTier7</li>
+      </tags>
+      <wornGraphicPath>Apparel/Mini/Hat</wornGraphicPath>
+    </apparel>
+    <!-- Recipe -->
+    <costStuffCount>50</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+    <costList>
+      <Cloth>50</Cloth>
+      <Silver>15</Silver>
+      <Gold>2</Gold>
+    </costList>
+    <!-- Stats -->
+    <statBases>
+      <WorkToMake>16800</WorkToMake>
+      <MaxHitPoints>120</MaxHitPoints>
+      <Mass>0.2</Mass>
+      <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+      <ArmorRating_Blunt>0.072</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.6</ArmorRating_Heat>
+      <ArmorRating_Sharp>0.28</ArmorRating_Sharp>
+      <Insulation_Cold>2</Insulation_Cold>
+      <Insulation_Heat>12</Insulation_Heat>
+      <Beauty>3</Beauty>
+    </statBases>
+    <equippedStatOffsets>
+      <MentalBreakThreshold>-0.1</MentalBreakThreshold>
+      <PsychicSensitivity>-0.1</PsychicSensitivity>
+      <MoveSpeed>-0.05</MoveSpeed>
+      <RecruitRelationshipDamage>-0.05</RecruitRelationshipDamage>
+      <AimingDelayFactor>0.05</AimingDelayFactor>
+      <TradePriceImprovement>0.05</TradePriceImprovement>
+      <RecruitEffectivity>0.05</RecruitEffectivity>
+      <NegotiationAbility>0.15</NegotiationAbility>
+      <SocialImpact>0.15</SocialImpact>
+    </equippedStatOffsets>
+  </ThingDef>
 </Defs>

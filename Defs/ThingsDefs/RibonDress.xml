@@ -1,50 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-	<ThingDef ParentName="ApparelDress">
-		<defName>RibbonDress</defName>
-		<label>Ribbon dress</label>
-		<description>ribbon dress.</description>
-		<!-- Graphic -->
-		<graphicData>
-			<texPath>Apparel/Ribbon/Dress_Icon</texPath>
-		</graphicData>
-		<apparel>
-			<wornGraphicPath>Apparel/Ribbon/Dress</wornGraphicPath>
-		</apparel>
-		<!-- Recipe -->
-		<costStuffCount>100</costStuffCount>
-		<stuffCategories>
-			<li>Fabric</li>
-		</stuffCategories>
-		<costList>
-			<Cloth>100</Cloth>
-			<Silver>30</Silver>
-		</costList>
-		<!-- Stats -->
-		<statBases>
-			<WorkToMake>12000</WorkToMake>
-			<MaxHitPoints>200</MaxHitPoints>
-			<Mass>2</Mass>
-			<StuffEffectMultiplierArmor>0.4</StuffEffectMultiplierArmor>
-			<ArmorRating_Blunt>0.108</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.9</ArmorRating_Heat>
-			<ArmorRating_Sharp>0.42</ArmorRating_Sharp>
-			<Insulation_Cold>20</Insulation_Cold>
-			<Insulation_Heat>8.2</Insulation_Heat>
-			<Beauty>16</Beauty>
-		</statBases>
-		<equippedStatOffsets>
-			<MentalBreakThreshold>-0.1</MentalBreakThreshold>
-			<HungerRateMultiplier>0.05</HungerRateMultiplier>
-			<SocialImpact>0.1</SocialImpact>
-			<AnimalGatherSpeed>0.1</AnimalGatherSpeed>
-			<AnimalGatherYield>0.1</AnimalGatherYield>
-			<FoodPoisonChance>0.15</FoodPoisonChance>
-			<TameAnimalChance>0.2</TameAnimalChance>
-			<TrainAnimalChance>0.2</TrainAnimalChance>
-			<GeneralLaborSpeed>0.2</GeneralLaborSpeed>
-		</equippedStatOffsets>
-	</ThingDef>
-
+  <ThingDef ParentName="ApparelDress">
+    <defName>RibbonDress</defName>
+    <label>Ribbon dress</label>
+    <description>ribbon dress.</description>
+    <!-- Graphic -->
+    <graphicData>
+      <texPath>Apparel/Ribbon/Dress_Icon</texPath>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>Royal</li>
+        <li>RoyalTier7</li>
+      </tags>
+     
+      <wornGraphicPath>Apparel/Ribbon/Dress</wornGraphicPath>
+    </apparel>
+    <!-- Recipe -->
+    <costStuffCount>100</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+    <costList>
+      <Cloth>100</Cloth>
+      <Silver>30</Silver>
+    </costList>
+    <!-- Stats -->
+    <statBases>
+      <WorkToMake>12000</WorkToMake>
+      <MaxHitPoints>200</MaxHitPoints>
+      <Mass>2</Mass>
+      <StuffEffectMultiplierArmor>0.4</StuffEffectMultiplierArmor>
+      <ArmorRating_Blunt>0.108</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.9</ArmorRating_Heat>
+      <ArmorRating_Sharp>0.42</ArmorRating_Sharp>
+      <Insulation_Cold>20</Insulation_Cold>
+      <Insulation_Heat>8.2</Insulation_Heat>
+      <Beauty>16</Beauty>
+    </statBases>
+    <equippedStatOffsets>
+      <MentalBreakThreshold>-0.1</MentalBreakThreshold>
+      <!--<HungerRateMultiplier>0.05</HungerRateMultiplier>-->
+      <SocialImpact>0.1</SocialImpact>
+      <AnimalGatherSpeed>0.1</AnimalGatherSpeed>
+      <AnimalGatherYield>0.1</AnimalGatherYield>
+      <FoodPoisonChance>0.15</FoodPoisonChance>
+      <TameAnimalChance>0.2</TameAnimalChance>
+      <TrainAnimalChance>0.2</TrainAnimalChance>
+      <GeneralLaborSpeed>0.2</GeneralLaborSpeed>
+    </equippedStatOffsets>
+  </ThingDef>
 </Defs>

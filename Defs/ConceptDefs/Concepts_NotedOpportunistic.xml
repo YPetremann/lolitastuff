@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <!--===================== Concepts taught through the learning readout, when opportunities arise ===================-->
 
   <ConceptDef>
@@ -8,7 +7,10 @@
     <label>Guest beds</label>
     <priority>50</priority>
     <needsOpportunity>True</needsOpportunity>
-    <helpText>Visitors prefer to sleep in beds.\n\nYou can convert beds to guest beds using the "For guests" button.</helpText>
+    <helpText
+      >Visitors prefer to sleep in beds.\n\nYou can convert beds to guest beds
+      using the "For guests" button.</helpText
+    >
     <highlightTags>
       <li>MainTab-Architect-Closed</li>
       <li>DesignationCategoryButton-Furniture-Closed</li>
@@ -21,7 +23,11 @@
     <label>Recruiting guests</label>
     <priority>50</priority>
     <needsOpportunity>True</needsOpportunity>
-    <helpText>You can recruit guests.\n\nRecruiting a guest will cost you goodwill with the guest's faction. Make sure you have a colonist with good social skills assigned for negotiation.</helpText>
+    <helpText
+      >You can recruit guests.\n\nRecruiting a guest will cost you goodwill with
+      the guest's faction. Make sure you have a colonist with good social skills
+      assigned for negotiation.</helpText
+    >
     <highlightTags>
       <li>ITab-Guest-Closed</li>
     </highlightTags>
@@ -32,7 +38,10 @@
     <label>Guests help out</label>
     <priority>40</priority>
     <needsOpportunity>True</needsOpportunity>
-    <helpText>Happy guests will help with work inside of their area if they are skilled enough. You can disable this or raise the required skill in the mod options.</helpText>
+    <helpText
+      >Happy guests will help with work inside of their area if they are skilled
+      enough. You can disable this or raise the required skill in the mod
+      options.</helpText
+    >
   </ConceptDef>
-
 </Defs>

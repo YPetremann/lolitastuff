@@ -1,51 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Basic Blouse -->
 
   <BasicBlouse.label>ブラウス(普通)</BasicBlouse.label>
   <BasicBlouse.description>普通のブラウスです。</BasicBlouse.description>
-
 
   <!-- Corset -->
 
   <Corset.label>コルセット</Corset.label>
   <Corset.description>コルセットです。</Corset.description>
 
-
   <!-- Lolita Dress -->
 
   <LolitaDress.label>ゴスロリ服</LolitaDress.label>
-  <LolitaDress.description>ゴシックでロリータなドレスです。</LolitaDress.description>
-
+  <LolitaDress.description
+    >ゴシックでロリータなドレスです。</LolitaDress.description
+  >
 
   <!-- Maid Dress -->
 
   <MaidDress.label>メイド服</MaidDress.label>
   <MaidDress.description>メイドの着る制服です。</MaidDress.description>
 
-
   <!-- Nuns Dress -->
 
   <NunsDress.label>シスター服</NunsDress.label>
   <NunsDress.description>修道女の服です。</NunsDress.description>
-
 
   <!-- Ribbon Dress -->
 
   <RibbonDress.label>リボンドレス</RibbonDress.label>
   <RibbonDress.description>リボンの付いたドレスです。</RibbonDress.description>
 
-
   <!-- Shoes -->
 
   <Shoes.label>シューズ</Shoes.label>
   <Shoes.description>ゴスロリ用の靴です。</Shoes.description>
 
-
   <!-- Tights -->
 
   <Tights.label>ニーソックス</Tights.label>
   <Tights.description>ゴスロリ用のタイツソックスです。</Tights.description>
-
 </LanguageData>

@@ -1,35 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-	<ThingDef ParentName="ApparelBlouse">
-		<defName>BasicBlouse</defName>
-		<label>basic blouse</label>
-		<description>A basic blouse.</description>
-		<!-- Graphic -->
-		<graphicData>
-			<texPath>Apparel/Blouse/Blouse_Icon</texPath>
-		</graphicData>
-		<apparel>
-			<wornGraphicPath>Apparel/Blouse/Blouse</wornGraphicPath>
-		</apparel>
-		<!-- Recipe -->
-		<costStuffCount>60</costStuffCount>
-		<stuffCategories>
-			<li>Fabric</li>
-		</stuffCategories>
-		<!-- Stats -->
-		<statBases>
-			<MaxHitPoints>100</MaxHitPoints>
-			<WorkToMake>1620</WorkToMake>
-			<Mass>0.5</Mass>
-			<StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
-			<StuffEffectMultiplierInsulation_Cold>0.33</StuffEffectMultiplierInsulation_Cold>
-			<StuffEffectMultiplierInsulation_Heat>0.10</StuffEffectMultiplierInsulation_Heat>
-			<EquipDelay>1.5</EquipDelay>
-		</statBases>
-		<colorGenerator Class="ColorGenerator_StandardApparel" />
-		<equippedStatOffsets>
-		</equippedStatOffsets>
-	</ThingDef>
-
+  <ThingDef ParentName="ApparelBlouse">
+    <defName>BasicBlouse</defName>
+    <label>basic blouse</label>
+    <description>A basic blouse.</description>
+    <!-- Graphic -->
+    <graphicData>
+      <texPath>Apparel/Blouse/Blouse_Icon</texPath>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>Royal</li>
+        <li>RoyalTier7</li>
+      </tags>
+      <wornGraphicPath>Apparel/Blouse/Blouse</wornGraphicPath>
+    </apparel>
+    <!-- Recipe -->
+    <costStuffCount>60</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+    <!-- Stats -->
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToMake>1620</WorkToMake>
+      <Mass>0.5</Mass>
+      <StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold
+        >0.33</StuffEffectMultiplierInsulation_Cold
+      >
+      <StuffEffectMultiplierInsulation_Heat
+        >0.10</StuffEffectMultiplierInsulation_Heat
+      >
+      <EquipDelay>1.5</EquipDelay>
+    </statBases>
+    <colorGenerator Class="ColorGenerator_StandardApparel" />
+    <equippedStatOffsets> </equippedStatOffsets>
+  </ThingDef>
 </Defs>

@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-	<Operation Class="PatchOperationFindMod">
-		<mods>
-			<li>FactionColors</li>
-		</mods>
-		<match Class="PatchOperationSequence">
-			<operations>
-				<li Class="PatchOperationAdd">
-					<xpath>Defs/ThingDef[Name="ApparelCustomBase"]/comps</xpath>
-					<value>
-						<li Class="FactionColors.CompProperties_FactionColor">
-							<compClass>FactionColors.CompFactionColor</compClass>
-							<UseSecondaryColors>true</UseSecondaryColors>
-							<Coloring Class="ColorGenerator_Options">
-								<options>
-									<li>
-										<weight>10</weight>
-										<only>RGBA(0.33,0.33,0.33,1)</only>
-									</li>
-									<li>
-										<weight>10</weight>
-										<only>RGBA(0.22,0.65,0.22,1)</only>
-									</li>
-									<li>
-										<weight>10</weight>
-										<only>RGBA(0.7,0.0,0.0,1)</only>
-									</li>
-									<li>
-										<weight>10</weight>
-										<only>RGBA(0.63,0.70,0.71,1)</only>
-									</li>
-									<li>
-										<weight>10</weight>
-										<only>RGBA(0.69,0.0,0.26,1)</only>
-									</li>
-									<li>
-										<weight>30</weight>
-										<only>RGBA(0.7,0.7,0.7,1)</only>
-									</li>
-									<li>
-										<weight>20</weight>
-										<only>RGBA(1.0,0.92,0.48,1)</only>
-									</li>
-								</options>
-							</Coloring>
-						</li>
-					</value>
-				</li>
-			</operations>
-		</match>
-	</Operation>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>FactionColors</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[Name="ApparelCustomBase"]/comps</xpath>
+          <value>
+            <li class="FactionColors.CompProperties_FactionColor">
+              <compClass>FactionColors.CompFactionColor</compClass>
+              <UseSecondaryColors>true</UseSecondaryColors>
+              <Coloring Class="ColorGenerator_Options">
+                <options>
+                  <li>
+                    <weight>10</weight>
+                    <only>RGBA(0.33,0.33,0.33,1)</only>
+                  </li>
+                  <li>
+                    <weight>10</weight>
+                    <only>RGBA(0.22,0.65,0.22,1)</only>
+                  </li>
+                  <li>
+                    <weight>10</weight>
+                    <only>RGBA(0.7,0.0,0.0,1)</only>
+                  </li>
+                  <li>
+                    <weight>10</weight>
+                    <only>RGBA(0.63,0.70,0.71,1)</only>
+                  </li>
+                  <li>
+                    <weight>10</weight>
+                    <only>RGBA(0.69,0.0,0.26,1)</only>
+                  </li>
+                  <li>
+                    <weight>30</weight>
+                    <only>RGBA(0.7,0.7,0.7,1)</only>
+                  </li>
+                  <li>
+                    <weight>20</weight>
+                    <only>RGBA(1.0,0.92,0.48,1)</only>
+                  </li>
+                </options>
+              </Coloring>
+            </li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
 </Patch>

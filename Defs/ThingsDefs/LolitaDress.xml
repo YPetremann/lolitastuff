@@ -1,63 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-	<ThingDef ParentName="ApparelDress">
-		<defName>LolitaDress</defName>
-		<label>lolita dress</label>
-		<description>A Gothic and Lolita style dress.</description>
-		<!-- Graphic -->
-		<graphicData>
-			<texPath>Apparel/Lolita/Dress_Icon</texPath>
-		</graphicData>
-		<apparel>
-			<wornGraphicPath>Apparel/Lolita/Dress</wornGraphicPath>
-		</apparel>
-		<!-- Recipe -->
-		<costStuffCount>300</costStuffCount>
-		<stuffCategories>
-			<li>Fabric</li>
-		</stuffCategories>
-		<costList>
-			<Cloth>100</Cloth>
-			<Silver>50</Silver>
-			<Gold>20</Gold>
-			<Jade>10</Jade>
-		</costList>
-		<!-- Stats -->
-		<statBases>
-			<WorkToMake>36000</WorkToMake>
-			<MaxHitPoints>250</MaxHitPoints>
-			<Mass>2.2</Mass>
-			<StuffEffectMultiplierArmor>0.4</StuffEffectMultiplierArmor>
-			<ArmorRating_Blunt>0.108</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.9</ArmorRating_Heat>
-			<ArmorRating_Sharp>0.42</ArmorRating_Sharp>
-			<Insulation_Cold>19</Insulation_Cold>
-			<Insulation_Heat>7.2</Insulation_Heat>
-			<Beauty>16</Beauty>
-		</statBases>
-		<equippedStatOffsets>
-			<AnimalGatherSpeed>-0.7</AnimalGatherSpeed>
-			<ConstructionSpeed>-0.7</ConstructionSpeed>
-			<HuntingStealth>-0.7</HuntingStealth>
-			<MiningSpeed>-0.7</MiningSpeed>
-			<PlantWorkSpeed>-0.7</PlantWorkSpeed>
-			<SmoothingSpeed>-0.7</SmoothingSpeed>
-			<ButcheryFleshSpeed>-0.7</ButcheryFleshSpeed>
-			<ButcheryMechanoidSpeed>-0.7</ButcheryMechanoidSpeed>
-			<CookSpeed>-0.7</CookSpeed>
-			<DrugCookingSpeed>-0.7</DrugCookingSpeed>
-			<DrugSynthesisSpeed>-0.7</DrugSynthesisSpeed>
-			<GeneralLaborSpeed>-0.7</GeneralLaborSpeed>
-			<MentalBreakThreshold>-0.4</MentalBreakThreshold>
-			<RecruitRelationshipDamage>-15</RecruitRelationshipDamage>
-			<TradePriceImprovement>0.1</TradePriceImprovement>
-			<RecruitEffectivity>15</RecruitEffectivity>
-			<ResearchSpeed>0.15</ResearchSpeed>
-			<ManagingSpeed>0.2</ManagingSpeed>
-			<NegotiationAbility>0.25</NegotiationAbility>
-			<SocialImpact>0.25</SocialImpact>
-		</equippedStatOffsets>
-	</ThingDef>
-
+  <ThingDef ParentName="ApparelDress">
+    <defName>LolitaDress</defName>
+    <label>lolita dress</label>
+    <description>A Gothic and Lolita style dress.</description>
+    <!-- Graphic -->
+    <graphicData>
+      <texPath>Apparel/Lolita/Dress_Icon</texPath>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>Royal</li>
+        <li>RoyalTier7</li>
+      </tags>
+      <wornGraphicPath>Apparel/Lolita/Dress</wornGraphicPath>
+    </apparel>
+    <!-- Recipe -->
+    <costStuffCount>300</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+    <costList>
+      <Cloth>100</Cloth>
+      <Silver>50</Silver>
+      <Gold>20</Gold>
+      <Jade>10</Jade>
+    </costList>
+    <!-- Stats -->
+    <statBases>
+      <WorkToMake>36000</WorkToMake>
+      <MaxHitPoints>250</MaxHitPoints>
+      <Mass>2.2</Mass>
+      <StuffEffectMultiplierArmor>0.4</StuffEffectMultiplierArmor>
+      <ArmorRating_Blunt>0.108</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.9</ArmorRating_Heat>
+      <ArmorRating_Sharp>0.42</ArmorRating_Sharp>
+      <Insulation_Cold>19</Insulation_Cold>
+      <Insulation_Heat>7.2</Insulation_Heat>
+      <Beauty>16</Beauty>
+    </statBases>
+    <equippedStatOffsets>
+      <AnimalGatherSpeed>-0.7</AnimalGatherSpeed>
+      <ConstructionSpeed>-0.7</ConstructionSpeed>
+      <HuntingStealth>-0.7</HuntingStealth>
+      <MiningSpeed>-0.7</MiningSpeed>
+      <PlantWorkSpeed>-0.7</PlantWorkSpeed>
+      <SmoothingSpeed>-0.7</SmoothingSpeed>
+      <ButcheryFleshSpeed>-0.7</ButcheryFleshSpeed>
+      <ButcheryMechanoidSpeed>-0.7</ButcheryMechanoidSpeed>
+      <CookSpeed>-0.7</CookSpeed>
+      <DrugCookingSpeed>-0.7</DrugCookingSpeed>
+      <DrugSynthesisSpeed>-0.7</DrugSynthesisSpeed>
+      <GeneralLaborSpeed>-0.7</GeneralLaborSpeed>
+      <MentalBreakThreshold>-0.4</MentalBreakThreshold>
+      <RecruitRelationshipDamage>-15</RecruitRelationshipDamage>
+      <TradePriceImprovement>0.1</TradePriceImprovement>
+      <RecruitEffectivity>15</RecruitEffectivity>
+      <ResearchSpeed>0.15</ResearchSpeed>
+      <ManagingSpeed>0.2</ManagingSpeed>
+      <NegotiationAbility>0.25</NegotiationAbility>
+      <SocialImpact>0.25</SocialImpact>
+    </equippedStatOffsets>
+  </ThingDef>
 </Defs>

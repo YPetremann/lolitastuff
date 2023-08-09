@@ -1,21 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Maid Hat -->
 
   <MaidHat.label>メイドカチューシャ</MaidHat.label>
   <MaidHat.description>メイド用のカチューシャです。</MaidHat.description>
-
 
   <!-- Mini Hat -->
 
   <MiniHat.label>ミニハット</MiniHat.label>
   <MiniHat.description>小さくて可愛い帽子です。</MiniHat.description>
 
-
   <!-- Ribon Hat -->
 
   <RibonHat.label>リボンハット</RibonHat.label>
   <RibonHat.description>リボンの付いた帽子です。</RibonHat.description>
-
 </LanguageData>

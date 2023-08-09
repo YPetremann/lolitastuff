@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-	<Operation Class="PatchOperationConditional">
-		<xpath>Defs/StatDef[defName="ManagingSpeed"]</xpath>
-		<match Class="PatchOperationRemove">
-			<xpath>Defs/StatDef[defName="ManagingSpeedPatch"]</xpath>
-		</match>
-		<nomatch Class="PatchOperationReplace">
-			<xpath>Defs/StatDef[defName="ManagingSpeedPatch"]/defName</xpath>
-			<value><defName>ManagingSpeed</defName></value>
-		</nomatch>
-	</Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/StatDef[defName="ManagingSpeed"]</xpath>
+    <match Class="PatchOperationRemove">
+      <xpath>Defs/StatDef[defName="ManagingSpeedPatch"]</xpath>
+    </match>
+    <nomatch Class="PatchOperationReplace">
+      <xpath>Defs/StatDef[defName="ManagingSpeedPatch"]/defName</xpath>
+      <value><defName>ManagingSpeed</defName></value>
+    </nomatch>
+  </Operation>
 </Patch>

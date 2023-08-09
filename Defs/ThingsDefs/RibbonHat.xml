@@ -1,43 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-	<ThingDef ParentName="ApparelHat">
-		<defName>RibonHat</defName>
-		<label>Ribon Hat</label>
-		<description>Ribon hat.</description>
-		<!-- Graphic -->
-		<graphicData>
-			<texPath>Apparel/Ribbon/Hat_Icon</texPath>
-		</graphicData>
-		<apparel>
-			<wornGraphicPath>Apparel/Ribbon/Hat</wornGraphicPath>
-		</apparel>
-		<!-- Recipe -->
-		<costStuffCount>15</costStuffCount>
-		<stuffCategories>
-			<li>Fabric</li>
-		</stuffCategories>
-		<costList>
-			<Hay>50</Hay>
-			<Cloth>35</Cloth>
-		</costList>
-		<!-- Stats -->
-		<statBases>
-			<WorkToMake>7800</WorkToMake>
-			<MaxHitPoints>120</MaxHitPoints>
-			<Mass>0.2</Mass>
-			<StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
-			<ArmorRating_Blunt>0.072</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.6</ArmorRating_Heat>
-			<ArmorRating_Sharp>0.28</ArmorRating_Sharp>
-			<Insulation_Cold>1</Insulation_Cold>
-		</statBases>
-		<equippedStatOffsets>
-			<SocialImpact>0.05</SocialImpact>
-			<TameAnimalChance>0.05</TameAnimalChance>
-			<TrainAnimalChance>0.5</TrainAnimalChance>
-			<Beauty>15</Beauty>
-		</equippedStatOffsets>
-	</ThingDef>
-
+  <ThingDef ParentName="ApparelHat">
+    <defName>RibonHat</defName>
+    <label>Ribon Hat</label>
+    <description>Ribon hat.</description>
+    <!-- Graphic -->
+    <graphicData>
+      <texPath>Apparel/Ribbon/Hat_Icon</texPath>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>Royal</li>
+        <li>RoyalTier7</li>
+      </tags>
+      <wornGraphicPath>Apparel/Ribbon/Hat</wornGraphicPath>
+    </apparel>
+    <!-- Recipe -->
+    <costStuffCount>15</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+    <costList>
+      <Hay>50</Hay>
+      <Cloth>35</Cloth>
+    </costList>
+    <!-- Stats -->
+    <statBases>
+      <WorkToMake>7800</WorkToMake>
+      <MaxHitPoints>120</MaxHitPoints>
+      <Mass>0.2</Mass>
+      <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+      <ArmorRating_Blunt>0.072</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.6</ArmorRating_Heat>
+      <ArmorRating_Sharp>0.28</ArmorRating_Sharp>
+      <Insulation_Cold>1</Insulation_Cold>
+    </statBases>
+    <equippedStatOffsets>
+      <SocialImpact>0.05</SocialImpact>
+      <TameAnimalChance>0.05</TameAnimalChance>
+      <TrainAnimalChance>0.5</TrainAnimalChance>
+      <Beauty>15</Beauty>
+    </equippedStatOffsets>
+  </ThingDef>
 </Defs>

@@ -1,34 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-	<ThingDef ParentName="ApparelTights">
-		<defName>Tights</defName>
-		<label>tights</label>
-		<description>Basic Lolita Tights.</description>
-		<!-- Graphic -->
-		<graphicData>
-			<texPath>Apparel/Misc/Tights_Icon</texPath>
-		</graphicData>
-		<apparel>
-			<wornGraphicPath>Apparel/Misc/Null</wornGraphicPath>
-		</apparel>
-		<!-- Recipe -->
-		<costStuffCount>30</costStuffCount>
-		<stuffCategories>
-			<li>Fabric</li>
-		</stuffCategories>
-		<!-- Stats -->
-		<statBases>
-			<WorkToMake>900</WorkToMake>
-			<MaxHitPoints>250</MaxHitPoints>
-			<Mass>0.2</Mass>
-			<StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
-			<StuffEffectMultiplierInsulation_Cold>1.20</StuffEffectMultiplierInsulation_Cold>
-			<StuffEffectMultiplierInsulation_Heat>0.20</StuffEffectMultiplierInsulation_Heat>
-			<Beauty>16</Beauty>
-		</statBases>
-		<equippedStatOffsets>
-		</equippedStatOffsets>
-	</ThingDef>
-
+  <ThingDef ParentName="ApparelTights">
+    <defName>Tights</defName>
+    <label>tights</label>
+    <description>Basic Lolita Tights.</description>
+    <!-- Graphic -->
+    <graphicData>
+      <texPath>Apparel/Misc/Tights_Icon</texPath>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>Royal</li>
+        <li>RoyalTier7</li>
+      </tags>
+      <wornGraphicPath>Apparel/Misc/Null</wornGraphicPath>
+    </apparel>
+    <!-- Recipe -->
+    <costStuffCount>30</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+    <!-- Stats -->
+    <statBases>
+      <WorkToMake>900</WorkToMake>
+      <MaxHitPoints>250</MaxHitPoints>
+      <Mass>0.2</Mass>
+      <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold
+        >1.20</StuffEffectMultiplierInsulation_Cold
+      >
+      <StuffEffectMultiplierInsulation_Heat
+        >0.20</StuffEffectMultiplierInsulation_Heat
+      >
+      <Beauty>16</Beauty>
+    </statBases>
+    <equippedStatOffsets> </equippedStatOffsets>
+  </ThingDef>
 </Defs>

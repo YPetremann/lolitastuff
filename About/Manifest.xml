@@ -6,14 +6,12 @@
     <li>1.0.0</li>
   </targetVersions>
   <dependencies>
-		<li>FactionColors</li>
 	</dependencies>
 	<incompatibleWith>
   </incompatibleWith>
   <loadBefore>
   </loadBefore>
   <loadAfter>
-		<li>FactionColors</li>
 		<li>Hospitality</li>
 		<li>ColonyManager</li>
   </loadAfter>

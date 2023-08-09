@@ -1,26 +1,32 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<StatDef>
-		<defName>RecruitRelationshipDamagePatch</defName>
-		<label>&lt;color=grey&gt;recruit relationship damage&lt;/color&gt;</label>
-		<description>&lt;color=orange&gt;Please install &lt;color=white&gt;&lt;b&gt;Hospitality&lt;/b&gt;&lt;/color&gt; mod to use this feature.&lt;/color&gt;
-
-The damage done to the relationship with the faction of this person when successfully recruiting.</description>
-		<category>PawnSocial</category>
-		<toStringStyle>Integer</toStringStyle>
-		<roundToFiveOver>10</roundToFiveOver>
-		<defaultBaseValue>35</defaultBaseValue>
-	</StatDef>
-	<StatDef>
-		<defName>RecruitEffectivityPatch</defName>
-		<label>&lt;color=grey&gt;recruit effectiveness factor&lt;/color&gt;</label>
-		<description>&lt;color=orange&gt;Please install &lt;color=white&gt;&lt;b&gt;Hospitality&lt;/b&gt;&lt;/color&gt; mod to use this feature.&lt;/color&gt;
-
-The effectiveness when trying to charm visitors to join your faction.</description>
-		<category>PawnSocial</category>
-		<toStringStyle>Integer</toStringStyle>
-		<defaultBaseValue>1.0</defaultBaseValue>
-		<minValue>0.00</minValue>
-		<maxValue>10.00</maxValue>
-	</StatDef>
+  <StatDef>
+    <defName>RecruitRelationshipDamagePatch</defName>
+    <label>&lt;color=grey&gt;recruit relationship damage&lt;/color&gt;</label>
+    <description
+      >&lt;color=orange&gt;Please install
+      &lt;color=white&gt;&lt;b&gt;Hospitality&lt;/b&gt;&lt;/color&gt; mod to use
+      this feature.&lt;/color&gt; The damage done to the relationship with the
+      faction of this person when successfully recruiting.</description
+    >
+    <category>PawnSocial</category>
+    <toStringStyle>Integer</toStringStyle>
+    <roundToFiveOver>10</roundToFiveOver>
+    <defaultBaseValue>35</defaultBaseValue>
+  </StatDef>
+  <StatDef>
+    <defName>RecruitEffectivityPatch</defName>
+    <label>&lt;color=grey&gt;recruit effectiveness factor&lt;/color&gt;</label>
+    <description
+      >&lt;color=orange&gt;Please install
+      &lt;color=white&gt;&lt;b&gt;Hospitality&lt;/b&gt;&lt;/color&gt; mod to use
+      this feature.&lt;/color&gt; The effectiveness when trying to charm
+      visitors to join your faction.</description
+    >
+    <category>PawnSocial</category>
+    <toStringStyle>Integer</toStringStyle>
+    <defaultBaseValue>1.0</defaultBaseValue>
+    <minValue>0.00</minValue>
+    <maxValue>10.00</maxValue>
+  </StatDef>
 </Defs>
