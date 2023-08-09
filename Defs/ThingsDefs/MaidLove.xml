@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ApparelDress">
+    <defName>MaidLove</defName>
+    <label>maid love</label>
+    <description>Uniform for maid.</description>
+    <!-- Graphic -->
+    <graphicData>
+      <texPath>Apparel/MaidLove/Dress_Icon</texPath>
+    </graphicData>
+    <apparel>
+      <tags>
+        <li>Royal</li>
+        <li>RoyalTier7</li>
+      </tags>
+      <wornGraphicPath>Apparel/MaidLove/Dress</wornGraphicPath>
+    </apparel>
+    <!-- Recipe -->
+    <costStuffCount>150</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+    <costList>
+      <Cloth>100</Cloth>
+    </costList>
+    <!-- Stats -->
+    <statBases>
+      <WorkToMake>9000</WorkToMake>
+      <MaxHitPoints>250</MaxHitPoints>
+      <Mass>2</Mass>
+      <StuffEffectMultiplierArmor>0.4</StuffEffectMultiplierArmor>
+      <ArmorRating_Blunt>0.108</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.9</ArmorRating_Heat>
+      <ArmorRating_Sharp>0.42</ArmorRating_Sharp>
+      <Insulation_Cold>19</Insulation_Cold>
+      <Insulation_Heat>4.2</Insulation_Heat>
+      <Beauty>16</Beauty>
+    </statBases>
+    <equippedStatOffsets>
+      <!-- + (Minage, Cuisine, Construction, Agriculture), - social -->
+      <FoodPoisonChance>-0.1</FoodPoisonChance>
+      <MentalBreakThreshold>-0.2</MentalBreakThreshold>
+      <SocialImpact>-0.1</SocialImpact>
+      <PlantHarvestYield>-0.1</PlantHarvestYield>
+      <PlantWorkSpeed>0.1</PlantWorkSpeed>
+      <ButcheryFleshEfficiency>0.1</ButcheryFleshEfficiency>
+      <ButcheryFleshSpeed>0.1</ButcheryFleshSpeed>
+      <CookSpeed>0.1</CookSpeed>
+      <DrugCookingSpeed>0.1</DrugCookingSpeed>
+      <GeneralLaborSpeed>0.2</GeneralLaborSpeed>
+    </equippedStatOffsets>
+  </ThingDef>
+</Defs>
