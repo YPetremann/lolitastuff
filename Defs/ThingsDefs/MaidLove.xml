@@ -7,6 +7,8 @@
     <!-- Graphic -->
     <graphicData>
       <texPath>Apparel/MaidLove/Dress_Icon</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
     </graphicData>
     <apparel>
       <tags>
