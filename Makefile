@@ -7,6 +7,7 @@ all: \
 		Textures/Apparel/Lolita/Dress \
 		Textures/Apparel/Maid/Dress \
 		Textures/Apparel/Maid/Hat \
+		Textures/Apparel/MaidLove/Dress \
 		Textures/Apparel/Mini/Hat \
 		Textures/Apparel/Nuns/Dress \
 		Textures/Apparel/Ribbon/Dress \
